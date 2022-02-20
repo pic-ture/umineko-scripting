@@ -2,8 +2,8 @@ language english
 
 ; Game window caption 
 
-if %CHIRU_MODE == 0 caption "Umineko no Naku Koro ni ~Rondo of the Witch and Reasoning~ (" + $CHIRU_MODE + ")"
-if %CHIRU_MODE == 1 caption "Umineko no Naku Koro ni Chiru ~Nocturne of Truth and Illusions~ (" + $CHIRU_MODE + ")"
+if %CHIRU_MODE == 0 caption "괭이갈매기 울 적에 ~마녀와 추리의 윤무곡~ (" + $CHIRU_MODE + ")"
+if %CHIRU_MODE == 1 caption "괭이갈매기 울 적에 散 ~진실과 환상의 야상곡~ (" + $CHIRU_MODE + ")"
 
 ;--Textboxes--
 
@@ -297,17 +297,17 @@ stralias verify_video,"Make sure you have properly unpacked 'video' folder. Some
 stralias verify_updates,"Make sure you have installed all recent file updates. Some files are not reachable."
 stralias verify_engine,"Make sure you are using a most recent game script and engine. Current engine and script are incompatible."
 
-stralias verification_title,"Game file verification"
-stralias verification_verifying,"Verifying files...{n}Please note that it may take several minutes.{n}"
+stralias verification_title,"게임 파일 검사소"
+stralias verification_verifying,"파일을 확인중입니다...{n}몇분정도 걸릴수 있습니다.{n}"
 stralias verification_legend,"Legend: "
-stralias verification_modified," File modified"
-stralias verification_missing," File missing"
-stralias verification_good,"All good!{n}"
-stralias verification_bad,"Game file verification failed!{n}"
+stralias verification_modified," 파일 확인됨"
+stralias verification_missing," 파일 사라짐"
+stralias verification_good,"모두좋은!{n}"
+stralias verification_bad,"게임 파일 검사 실패!{n}"
 stralias verification_nohash,"Missing game.hash file in the game directory!{n}"
 stralias verification_unsupported,"Unsupported game.hash file found in the game directory!{n}"
 stralias verification_outdated,"Outdated game.hash file found in the game directory!{n}"
-stralias verification_end,"Right-click to exit!"
+stralias verification_end,"우클릭으로 나가세요!"
 
 stralias verification_ancient,"Your game is over 6 months old, it might be outdated!"
 

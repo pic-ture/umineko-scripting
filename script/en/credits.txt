@@ -1,5 +1,5 @@
 	mov $Free1,":s;#FFFFFF`"
-	add $Free1,"{p:20:{a:c:Umineko no Naku Koro ni}{n}}"
+	add $Free1,"{p:20:{a:c:괭이갈매기 울 적에}{n}}"
 	if %CHIRU_MODE = 0 add $Free1,"{p:20:{a:c:Rondo of the Witch and Reasoning}{n}}"
 	if %CHIRU_MODE = 1 add $Free1,"{p:20:{a:c:Nocturne of Truth and Illusions}{n}}"
 	add $Free1,"{p:20:{a:c:{n}}{n}}"

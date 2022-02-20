@@ -1,42 +1,42 @@
-`"............You've...`
-`been indulging in alcohol again, haven't you?"`
-`The old physician let out a sigh as he removed the stethoscope.`
-`Two elderly men could be seen in the dimly lit study, which was filled with dust and a sickly sweet stench.`
-`In the corner of this room, which was much larger than what most people would call a study,`
-` there was an expensive‐looking bed, a man undergoing a medical examination, and the physician conducting it.`
-`{n}There was also what appeared to be a servant watching over the whole scene.`
-`"The bottle is my friend.`
-` It is no less of a friend than you, and it has stood by my side even longer than you have."`
-`The man who had bared his chest for the stethoscope spoke unapologetically as he straightened out his clothes.`
-`"............Kinzo‐{c:86EF9C:san}.`
-` ...Your body only appears to be well thanks to the effects of the medicine.`
-` However, if you continue to drink such strong spirits, the treatment will become meaningless.`
-` ...Trust my judgment.`
-` Temper your drinking."`
-`"I thank you, though only for the sentiment,`
-` my friend.`
-` .........Genji.`
-` Another glass.`
-` Water it down slightly.`
-` That way Nanjo can save face."`
-`".........Are you quite sure?"`
-`After eyeing both the master who demanded the alcohol and his doctor who forbade it,`
-` Genji, the old butler, silently gave a slight nod and carried out his master's orders faithfully.`
-`Nanjo, the man's personal doctor, let out a deep sigh once again as he watched the butler busy himself alongside the liquor cabinet...`
-`There was a smell filling up the room.`
-`...This sweet, poisonous aroma felt as though it melted the heart, if not the soul itself.`
-` It was the smell of that venomous green drink that the man couldn't bring himself to part from.`
-`"......Nanjo.`
-` You are my close friend of many years.`
-` I am deeply grateful for all that you have done to keep me alive this long."`
-`"I have done nothing.`
-` ......After all, you never listen to my advice as your physician."`
-`"Hahahaha...`
-` And you never listen when I warn you about a mistaken chess move you're about to make.`
-` It seems we are even."`
-`"......My lord."`
-`"Thank you.`
-` ......I wouldn't die if I ran out of your medicine, but I would if I ran out of this."`
+`「............또...`
+`술을 드셨습니까?」`
+`청진기를 거두며 노년의 의사는 한숨을 쉰다.`
+`먼지와 묘한 단내가 뒤섞인 어두캄캄한 서재에는, 나이 지긋한 남자들의 모습이 있었다.`
+`서재라고 부르기엔 너무 넓은 방 한 구석에는 고급스러워 보이는 침대가 있고,`
+` 진찰을 받는 남자와 그를 진찰하는 의사,`
+`{n}그리고 그들을 지켜보는 고용인인 듯한 남자가 있었다.`
+`「술은 내 벗이네.`
+` 자네 못지않은 친구이자, 자네보다도 교제한 시간이 길지.」`
+`청진기 때문에 가슴을 드러내고 있던 남자는, 흐트러진 옷매무새를 가다듬으며 기죽는 기색도 없이 그렇게 말한다.`
+`「............킨조 {c:86EF9C:씨}.`
+` ...킨조씨의 몸 상태가 얼핏 좋아 보이는 건 약효 덕분입니다.`
+` 하지만, 그런 독한 술을 계속 마셔서는 약도 의미가 없게 돼요..`
+` ...여러말 않겠습니다..`
+` 술은 삼가하십시오.」`
+`「충고해주는 마음만은 고맙게 받겠네,`
+` 내 벗이여.`
+` .........겐지,`
+` 한잔 더 따르도록.`
+` 조금 순한 걸로.`
+` 난죠의 체면도 세워 줘야지.」`
+`「.........괜찮으시겠습니까.」`
+` 겐지라고 불린 노령의 집사는, 술을 요구하는 주인과 그것을 말리는 주치의의 양쪽을 살핀후,`
+`말없이 살짝 고개를 끄덕이며 주인의 명령에 충실히 따르는 것이었다...`
+`그가 찬장에서 준비하는것을 바라보며 주치의인 난죠는 다시금 깊은 한숨을 쉰다...`
+`실내를 가득채운 그 냄새.`
+`...마음도, 그리고 영혼도 녹여버릴 것 같은 독한 단내는,`
+` 주인이 사랑해 마지않는 그 독기 어린 녹색 술의 냄새였던 것이다.`
+`「......난죠.`
+` 자넨 내가 오랫동안 사귄 벗이야.`
+` 지금가지 내 목숨을 부지하게 해 준 걸, 깊이 감사하네.」`
+`「제가 뭘.`
+` ......의사로서의 충고 따위, 킨조 씨는 전혀 들어주질 않는걸요.」`
+`「하하하하...`
+` 자넨들 수를 잘못 뒀을 때기다려 달래서 어디 들은 적이 있던가.`
+` 그럼 피장파장인 셈이지.」`
+`「......주인님.」`
+`「미안하네.`
+` ......약이 떨어져도 죽진 않지만, 이녀석이 떨여져서는 죽을 것 같거든」`
 `With one eye on Nanjo, who had his face set in a resigned expression, Kinzo took the glass that Genji was holding out to him.`
 `...There are probably very few people who would associate the venomous color which filled the glass with an alcoholic beverage.`
 `".........Nanjo.`
