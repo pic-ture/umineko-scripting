@@ -1058,7 +1058,7 @@ stralias chars_1_kla_2,":s;#FFFFFF`{p:3:우시로미야 크라우스 ({p:4:右�
 stralias chars_1_kum_1,":s;#FFFFFF`{p:3:쿠마사와 치요 ({p:4:熊沢　チヨ}){n}{n}도중에 몇 번인가 일을 그만둔 적이 있지만, 다합치면 근속 연한이 꽤 되는 파트타이머 격의 노파이다.{n}{n}요령이 좋으며 고용인으로서의 기량은 결코 떨어지는 편이 아니지만, 소문을 좋아하고 입이 가벼운 탓에 좋은 평가는 받고 있지 못하다.}"
 stralias chars_1_kum_2,":s;#FFFFFF`{p:3:쿠마사와 치요 ({p:4:熊沢　チヨ}){n}{n}응접실에서 장딴지에 아이스픽 형태의 흉기가 박힌데다가, 안면이 손괴된 상태로 발견됐다.{n}{n}제 8의 밤에, 다리를 후벼 죽여라.}"
 stralias chars_1_mar_1,":s;#FFFFFF`{p:3:우시로미야 마리아 ({p:4:右代宮　真里亞}){n}{n}로자의 딸. 부친은 불명.{n}유아 말투가 고쳐지지 않아 자주 꾸중을 듣는다.{n}{n}공부에도 친구에도 전혀 흥미가 없지만, 오컬트나 흑마술 등에는 강한 관심을 나타내며, 비범한 갖가지 지식을 천재적 암기력으로 기억하고 있다.}"
-stralias chars_1_mar_2,":s;#FFFFFF`{p:3:우시로미야 마리아 ({p:4:右代宮　真里亞}){n}{n}행방불명.{n}{n}Kihihihihihihihihihihihihihi.}"
+stralias chars_1_mar_2,":s;#FFFFFF`{p:3:우시로미야 마리아 ({p:4:右代宮　真里亞}){n}{n}행방불명.{n}{n}키히히히히히히히히히히히히히히.}"
 stralias chars_1_nan_1,":s;#FFFFFF`{p:3:난조 테루마사 ({p:4:南條　輝政}){n}{n}킨조의 주치의이자 친구.{n}니지마에서 개업의를 하고 있었으나, 아들에게 병원을 물려주고 평온한 노후를 보내고 있다.{n}{n}시의심으로 똘똘 뭉친 킨조가 마음을 터놓는 몇 안되는 인물 중 하나.{n}대단히 너그러운 성격으로, 곧잘 격망하는 킨조의 성격에도 개의치 않고 오랜 교류를 유지하고 있다.}"
 stralias chars_1_nan_2,":s;#FFFFFF`{p:3:난조 테루마사 ({p:4:南條　輝政}){n}{n}응접실에서 장딴지에 아이스픽 형태의 흉기가 박힌 데다가, 안면이 손괴된 상태로 발견됐다.{n}{n}제 8의 밤에, 다리를 후벼 죽여라.}"
 stralias chars_1_nat_1,":s;#FFFFFF`{p:3:우시로미야 나츠히 ({p:4:右代宮　夏妃}){n}{n}Krauss's wife.{n}Manages the household of the Ushiromiya head family in place of her husband, who takes little interest.{n}For this family conference, again, she was the one who took charge of making all the preparations and arrangements.{n}{n}Possesses a strong sense of responsibility and a great deal of pride.{n}However, neither her husband nor his siblings understand her very well, so her position is far from enviable.}"
