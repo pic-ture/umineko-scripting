@@ -366,80 +366,80 @@
 `「항상 환절기에는 감기에 걸려요.`
 ` 아무래도 허약해서...`
 ` 정말 데려 오고 싶었지만, 이번엔 외가에서 돌봐 주기로 했어요.」`
-`"I think that's a wise move.`
-` She'll be on the mend faster if she's not exposed to that toxic head house.`
-` A child's health is always more important than an adult's convenience, don't you think?"`
-`"I know of some great medicine for vomitin' colds like that!`
-` When we get back home, I'll send it over right away, so be sure to give her some!"`
-`"Thank you very much, Hideyoshi nii‐san.`
-` I'm always in your debt..."`
-`...And once the conversation suddenly veered off in that direction, we kids didn't have any chance of butting in.`
-`For now, I'm just happy that Auntie Eva gave Dad his just deserts for tugging on my ear.`
-`"Looks like we're still waiting for the weather report."`
-`George‐aniki pointed at the counter.`
-`{n}The "Pending Weather Clearance" sign was still stuck next to the scheduled departure time for the flight we were scheduled to board.`
-`According to Aniki, smaller planes are more subject to winds and other effects of the weather,`
-` and it's not at all uncommon for flights to be delayed because of that.`
-`......Wait a sec, it isn't really going to shake...is it...?`
-`From down here on the ground, it just looks cloudy, not windy.`
-`...Well, I guess it's different up where the planes fly.`
-`"The weather's a bit uncertain today."`
-`Auntie Eva was looking at a TV in the lounge.`
-`{n}The weather forecast was being broadcast, informing us that a typhoon was approaching the Kanto region.`
-`"A typhoon again?`
-` ......I guess we're doomed to these, with the family conference being in October every year.`
-` Couldn't he choose a better season?"`
-`"I agree.`
-` I've always hoped we could have it sometime around the Obon festival in mid‐August.`
-` In that case, why don't you suggest that to Father and Nii‐san during the conference?"`
-`"...Very funny.`
-` Why don't you do it yourself?`
-` Our brother would never listen to anything I suggested."`
-`"No way.`
-` It doesn't really bother me that much to have it in October.`
-` You were the one who complained about the typhoon, so I said "ask them to change it then",`
-` that's all."`
-`"I only said that typhoons always come around this time of year.`
-` You're the one who said you wanted to move it nearer to Obon."`
-`"Well, you said it too last year!`
-` Didn't you say that it would be easier to fit into your schedule if we had it nearer Obon?!"`
-`"I've never said anything like that."`
-`"Oh yes, you did.`
-` I certainly wouldn't forget something like that!"`
-`"No, I didn't... You're the one saying that all the time!"`
-`"Are you aware?`
-` Stopping a kick just a hair's breadth away is a very high‐level technique."`
-`"Sheesh, women your age should be more proper than that!"`
-`Dad and Auntie Eva's argument looks no different from a couple of brats bickering...`
-`"I expect that's because, although they normally act as mothers and fathers,`
-` they turn right back into kids again when they meet their old siblings at these family conferences."`
-`"You're the one who looks like a real adult, analyzing it all calmly.`
-` ......I hope I never turn out like that old bastard.`
-` I'd much rather end up as an intellectual adult like you, Aniki."`
-`"Like me?`
-` Oh, I still have a long way to go.`
-` I still have very little experience out there in the real world, and I need to work on becoming more bold and sociable.`
-` ...I think you've far surpassed me on all of those counts, Battler‐kun.`
-` I'm sure you'll outstrip me fast enough when you become an adult."`
-`George‐aniki scratched his head and laughed, as though trying to hide his embarrassment.`
-`{n}Of course, he was just being humble.`
-`Aniki entered a university and became an apprentice at Uncle Hideyoshi's company at the same time, studying both academics and how to become a business emperor in parallel.`
-`Then, right after graduating, he got into Uncle Hideyoshi's company as his father's aide, piling up a lot of real‐life experience as he devoted himself zealously to his work.`
-`He even has grand dreams, of one day standing on his own and becoming lord of his own domain.`
-`Aniki is a real paragon of a man, sparing no effort as he strives towards his goal.`
-` It's no exaggeration to say that I really respect him.`
-`And then there's me.`
-` I'm nothing at all like Aniki.`
-`I'm living my happy‐go‐lucky idle high‐school life to the max.`
-`I've got no dreams for the future!`
-`{n}I'd like to just sit back, stay cool, and let the money flow in, but of course that could never happen.`
-`...When Aniki was my age, he had already formed an impressive objective and had started devoting himself towards studying for that goal, so I guess I can't compare at all.`
-`My dad just says "sure you can study at my company, if you like cleaning toilets".`
-`Dammit, I'm not gonna be in the debt of that old bastard.`
-`{n}I'll find my way myself!`
-`{n}.........I guess that intensity is my one qualification towards adulthood.`
-`Should I go on one of those self‐searching journeys that are all the rage these days?`
-`{n}......Well, it's not like I could mooch off my parents for that kind of money...`
+`「생각 잘 했네`
+` 괜히 친가에 와서 독기에 쐬이지 않는 편이 낫는 것도 빠를 테니까.`
+` 어른들 사정보단 애 아픈 게 우선이라구?」`
+`「내사 토하는 감기에 잘 듣는 약을 압니더!`
+` 돌아가믄 바로 보낼 테니께 써 보이소!」`
+`「고맙습니다, 아주버님`
+` 항상 신세만 지네요...」`
+`...이런 이야기로 어느샌가 발전한 탓에 우리 같은 애들 차례는 돌아오지도 않는다.`
+`아버지에게 귀 꼬집힌 건 큰고모가 확실히 복수해 줬으니 일단은 납득하기로 할까.`
+`「아직도 기후조사중 표시가 안 없어지네.」`
+`조지 형이 카운터를 가리킨다.`
+`{n}우리가 탈 예정인 비행기편의 출발예정시각 옆엔 여전히 ‘기후조사중’ 팻말이 달린 채였다.`
+`형 말에 따르면 소형 비행기란 건 바람 등의 기후의 영향을 많이 받기 때문에,`
+` 기후에 따른 비행기편의 착륙시간 변경은 흔한 일이라는 것 같다.`
+`......어이, 정말 안 흔들리는 거 맞지....?`
+`이렇게 지상에 있는 동안에는 단순히 흐린 날씨로만 보여서 바람 부는 건 느껴지지 않는다.`
+`...뭐, 비행기가 나는 상공에선 얘기가 다를 지도 모르겠지.`
+`「날씨가 좀 이상하네.」`
+`큰고모가 대합실의 텔레비전을 보고 있다.`
+`{n}거기엔 일기예보가 비춰지고 있어서, 관동 지방에 태풍이 다가오고 있다는 걸 알려주고 있었다.`
+`「또 태풍인가.`
+` ......친족회의가 매년 10월인 이상 이건 숙명이라니까.`
+` 조금만 더 시기를 골라 주면 좋겠는데 말야.」`
+`「동감이야.`
+` 나도 오본 연휴에 했으면 하고 항상 생각하거든.`
+` 그럼 루돌프, 이거 이번 회의에서 아버지랑 오빠한테 제안해 보는 게 좋지 않겠어?」`
+`「...농담 마.`
+` 누나가 말해.`
+` 내가 무슨 말을 해도 형은 안 듣는다구.」`
+`「싫~어.`
+` 난 그다지 10월이라도 곤란하지 않은걸.`
+` 루돌프가, 태풍이 싫다는 둥 얘기하니까, 제안해보지 그래?`
+` 라고 말한 것뿐이야.」`
+`「난 태풍이 오는 건 항상 마찬가지라고 말했을 뿐이잖아.`
+` 오본 연휴때가 좋다고 말 꺼낸 건 누나라구.」`
+`「어머, 작년에 루돌프도 말했어.`
+` “오본 때라면 일 스케줄과도 맞추기 쉬운데…”하고!」`
+`「언제 그런 말을 했다고 그래?」`
+`「말했어.`
+` 나 그런 건 절대 잊어버리지 않는걸!」`
+`「아니 말 안 했어, 말한 건 언제나 누나였다구!」`
+`「그거 알아?`
+` 급소 직전에서 멈추는 건 꽤 고급 기술이라는 거?」`
+`「쳇, 여자가 나잇살 먹고 경박하게 다리 들어올리지 말란 말야!」`
+`아버지와 큰고모의 실랑이를 보고 있으면 정말 애들 싸움으로밖에 안 보인다...`
+`「평소엔 아버지나 어머니로서 행동하고 있어도,`
+` 이렇게 친족회의에서 형제들과 재회하면 어린 시절의 자신으로 돌아가기 때문이겠지.」`
+`「라고 냉정히 분석 가능한 조지 형 쪽이 훨씬 어른으로 보인단 말야.`
+` ......난 나중에 저런 망할 아버지처럼은 되고 싶지 않아.`
+` 굳이 된다면 형 같은 지적인 어른이 되고 싶거든.」`
+`「나 말이야?`
+` 나 같은 건 아직 멀었어.`
+` 사회경험이 전혀 부족하고 사교성도 배짱도 부족하지.`
+` ...배틀러는 그중 몇 가지를 이미 갖고 있다고 생각해.`
+` 그러니 분명 성인이 되면 나 정도는 곧바로 추월할 거야.」`
+`조지 형은 겸연쩍었는지 머리를 긁으며 얼버무리듯 웃는다.`
+`{n}그러니 물론, 이건 겸손이다.`
+`형은 대학에 들어감과 동시에 큰고모부의 회사에 수습생으로 들어가 학업과 비즈니스 제왕학을 병행하여 배웠다.`
+`그리고 대학 졸업 후 곧바로 큰고모부의 측근으로서 입사해 한층 더 열심히 공부에 분발하면서 갖가지 사회 경험을 쌓고 있다.`
+`언젠가는 독립해서 자신만의 기반을 구축하고 싶다는 훌륭한 꿈도 갖고 있다.`
+`그를 위해 노력을 게을리 하지 않는 형은 그야말로 남자의 귀감이다.`
+` 빈말이 아니라 진심으로 존경스럽다.`
+`반면 나로 말할 것 같으면....`
+` 형과는 하늘과 땅 차이다.`
+`태평하게 고교 생활의 모라토리엄을 만끽중인 꼴이다.`
+`장래의 꿈 같은 건 전무!`
+`{n}편하고 폼나게 돈을 긁어모아 탱자탱자하고 싶지만, 그런 달콤한 이야기가 실현될 리 없지.`
+`...형은 내 나이 무렵엔 이미 훌륭한 목표를 내걸고 공부중이었으니 나 같은 건 발 밑에도 못 미칠 만하다.`
+`망할 아버지는 “너도 내 회사에서 경험 좀 쌓을래? 우선은 화장실 청소부터지만. ”이라느니 지껄인다.`
+`젠장, 절대로 저 망할 아버지한텐 신세 지지 않을 거다.`
+`{n}나는 내 인생을 개척해 내겠어!`
+`{n}.........라니, 기세만은 하늘을 찌른다.`
+`항간에 유행하는 자아 찾기 여행이란 거라도 떠나 볼까나?`
+`{n}......그럴 돈을 집에서 내줄 리도 없지만.`
 `"......hm?! Ohh~!"`
 `Right then, Uncle Hideyoshi shouted out loudly.`
 `{n}Uncle's a really nice person on the whole, but he does have a problem controlling the volume of his voice.`
