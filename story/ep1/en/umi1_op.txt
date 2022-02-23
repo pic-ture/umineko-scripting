@@ -109,10 +109,10 @@
 `「내가 살아 있는 동안이 아니면 안 된다, 내가 죽으면 내 혼은 곧 게약의 악마에게 먹혀 사라지고 말아!`
 ` 사후 세계도 안식도 내겐 허락되지 않는단 말이다!`
 ` 그러니 모든 건 내가 살아 있는 동안이 아니면 안 돼!!`
-` 그러니 유언장 따위 내겐 필요 없어!!`
-` 그런 걸 쓸 틈이 있다면...`
-` 있다면!!」`
-`「...난 보고 싶다.`
+` 그러니 유언장 따위 내겐 필요 없어!!」`
+` 「그런 걸 쓸 틈이 있다면...`
+` 있다면!!`
+` ...난 보고 싶다.`
 ` 다시 한 번 보고 싶다!`
 ` 베아트리체의 미소 짓는 얼굴이 다시 한 번 보고 싶다!!`
 ` 아아, 베아트리체, 어째서 나를 이렇게까지 거부하는 건가!!`
@@ -125,7 +125,7 @@
 ` 내 앞에 다시 한 번 나타나 다오, 그리고 미소지어 다오!!`
 ` 날 꾸짖어도 좋아, 원한다면 네 손으로 내 목숨을 빼앗아도 좋다!!`
 ` 이대로 혼자 죽고 싶지 않아!!`
-` 너의 미소를 다시 보기 전까진 절대 죽을 수 없다!!"`
+` 너의 미소를 다시 보기 전까진 절대 죽을 수 없다!!`
 ` 아아, 베아트리체, 베아트리체!!`
 ` 이 목숨을 줄 테니, 너에게 줄 테니!!`
 ` 제발, 베아트리체에에에에에에!!」`
@@ -146,113 +146,113 @@
 `「우왓, 조, 조지 {c:86EF9C:형}이야?」`
 `「헤헤, 갑자기 놀래키지 말라구. 방금 걸로 수명이 3년은 준 것 같으니까.`
 ` 것보다, 흔들린다니 무슨 말씀이신지?`
-` 잇히히히, 난 딱히 비행기도 흔들리는 걸까, 설마 떨어지진 않겠지~라고, 꿈에도 생각 안 했다구?"`
-`"Oh, of course not, my mistake.`
-` I'm sure that you've changed a lot since we last saw you.`
-` After all, it's been six years since then.`
-` You're not a kid anymore.`
-` Hahahahaha."`
-`"Sheesh, and here you are, old enough to smoke and drink.`
-` I've got no interest in smoking, but I've always wanted to try some booze, heheheh!`
-` Well, if you've got your dad's genes, I'll bet you can hold your own when it comes to drinking, right?"`
-`"Well, I usually drink for business rather than pleasure.`
-` It's pretty hard to do business in Japan without it."`
-`"Ihihihi!`
-` That's exactly right!`
-` So I was thinking I'd take my first shot at it tonight at dinner!"`
-`"Th‐that's no good, Battler‐kun, you're still a minor!`
-` Drinking alcohol is known to stunt the growth of minors and...`
-`...um, never mind."`
-`"Come on, I'm tall enough already!`
-` In fact, it'd be easier to find clothes if I shrunk a little!"`
-`I puffed my chest out proudly.`
-`Until I hit my growth spurt, my height was below average in my class.`
-`But then, I grew and grew, and before I knew it, I was over 180 cm.`
-`I guess I have all that muscle training and those shady mail‐order performance‐enhancing drugs to thank for that.`
-`Before then, I'd never dreamed that I'd shoot ten centimeters above George‐aniki, who'd reached his peak height early on.`
-`......Damn, I'll bet my relatives all say "look how big you've grown, Battler‐chan!" or something.`
-`...That kind of thing is really embarrassing, so I hope they cut me a break.`
-`Anyway, my name, "Battler"...`
-`...well, it's pretty damn weird, don't you think?`
-`I've got to wonder what my parents were thinking when they gave me that name.`
-`{n}I've never met anyone who could read it right the first time.`
-`I usually get called "{c:86EF9C:Sento‐kun}".`
-`{n}Too bad, swing and a miss.`
-`My name is written {p:0:右代宮 戦人}.`
-`{n}Can you read it?`
-` The first part is my family name, "Ushiromiya".`
-` That's a fairly plausible Japanese pronunciation so far.`
-`The problem is my own name.`
-`{n}.........{p:0:戦人} is made up of the characters for "fight" and "person", and it's pronounced "Battler".`
-`Put it all together, and you've got Ushiromiya Battler.`
-`Pretty crazy, right?`
-` It's crazy enough that my parents decided to call me that, but it's even more crazy that some government worker let them make it official.`
-` ...Both groups are at the top of my must‐kill list.`
-`Anyway, this is one of my cousins.`
-`His name is {p:0:右代宮 譲治}, pronounced Ushiromiya George.`
-`He's five years older than me, so he's probably turning 23 this year.`
-`{n}Since the Ushiromiya cousins consist of two boys and three girls, I ended up playing with George all the time.`
-`And because I've always thought of him as a big brother, I still call him "Aniki" today.`
-`"Whoo, Battler‐kun, look how big you've gotten.`
-` You know what they say, "leave a boy for three days and you'll hardly recognize him"!"`
-`"It must be in his blood, I suppose.`
-` Rudolf wasn't that tall either until around his high school years.`
-` Perhaps people end up taller if their growth spurt comes late."`
-`"Nah, it's nothing special.`
-` A real man needs to be tough on the inside too!"`
-`"Exactly!`
-` Battler‐kun here knows how it works!`
-` Real men win or lose based on what they've got on the inside!`
-` Can't ever forget to keep up your trainin' and discipline.`
-` You do that, wait verrry alertly for the perfect moment...and strike!"`
-`"Now, even I never imagined that I'd become the company president I am today, master of my own domain...`
-` Yep, to think I've come this far after starting out penniless and ruined...!"`
-`This portly and slightly chubby man...`
-`is George‐aniki's dad, Uncle Hideyoshi ({p:0:秀吉}).`
-`He's the husband of Dad's older sister.`
-`{n}In other words, we're not blood‐related.`
-`He's nice to children, sociable all the time, even quick to give out some spending money to us kids—simply put, he's an awesome uncle.`
-`He speaks in an odd and very noticeable Kansai‐style dialect seemingly of his own creation, but he's actually a natural‐born Kanto man.`
-`Apparently, leaving an impression is everything in the business world,`
-` so speaking in a different style than other people is an act that makes him stick out more.`
-`......However, I hear that he gets embarrassed when talking within earshot of a real Kansai person, so he switches back to standard Japanese.`
-`...I don't really get it, but he's definitely an interesting person.`
-`"If only you weren't so quick to brag about your life's story.`
-` That's enough for now, I think.`
-` I'm sure Battler‐kun's getting tired of it.`
-` Aren't you?"`
-`"Nope, not at all, hihihi!`
-` Nothing wrong with that.`
-` I think it's pretty cool for a man to have some stories he can brag about.`
-` I don't have anything like that at all."`
-`"Oh, really?`
-` I'd imagine a man with your looks would leave girls crying left and right, so I have trouble believing that you have nothing at all to brag about..."`
-`"Nonononono!`
-` Y‐y‐`
-`you're joking, right?!`
-` Of course nothing weird like that's ever happened to me!`
-` In fact, if you know anyone, I'm all ears!"`
-`"Oh, I'm sure you do have some stories!`
-` ...*giggle* You must tell your aunt all about it later.`
-` After all, George never comes to me with anything of the sort.`
-` Heheheh..."`
-`This is my aunt and George‐aniki's mother, Auntie Eva ({p:0:絵羽}).`
-`She's my dad's older sister.`
-`{n}She and Uncle Hideyoshi are a pair of jokers, and they've always teased me back as far as I can remember.`
-`This sometimes made them a bit hard to get along with when I was small.`
-`{n}...That said, I'm currently in the process of discovering that they still are hard to get along with.`
-`Even so, George‐aniki's family is interesting and fun, and they seem to get along just fine.`
-`......Sheesh, that's pretty much the total opposite of my family.`
-`"Battler‐kun,`
-` have you seen Rudolf‐san?"`
-`"Huh?`
-` He headed off to the bathroom a while ago.`
-` Is he {i:still} not back?`
-` Heh, maybe the poor geezer dropped dead... {c:86EF9C:Namunamunamu}."`
-`"That's no way to talk about your own father.`
-` Still, this isn't the first time he's taken so long in the bathroom."`
-`"Yeah, the guy's always been that way.`
-` Does he really have to take a magazine with him every time he needs to take a dump?`
+` 잇히히히, 난 딱히 비행기도 흔들리는 걸까, 설마 떨어지진 않겠지~라고, 꿈에도 생각 안 했다구~?」`
+`「미안, 미안..`
+` 이제 어릴 때완 다르지.`
+` 그때 이후로 6년이나 지났고.`
+` 배틀러도 더는 어린애가 아닌가.`
+` 핫하하하하.」`
+`「쳇, 형은 담배도 술도 오케이란 건가.`
+` 담배엔 관심 없지만 술은 마셔보고 싶네, 히히히!`
+` 형도 큰고모부 유전자 물려받았으면 술깨나 마실 것 같은데?」`
+`「내 경우엔 좋아서 마신다기보단 일 때문에 마실 대가 많으니까.`
+` 일본에서 술 없이 사업하기란 어려워.」`
+`「잇히히!`
+` 그렇지~?!`
+` 그래서 나도 평소에 예습복습을 빼먹지 않거든~!」`
+`「아, 안 돼, 배틀러는 아직 미성년자잖아!`
+` 미성년자의 음주는 발육에 악영향을 끼칠 가능성이...`
+`으, 으~음.」`
+`「이 정도 덩치면 발육은 충분하단 말씀~!!`
+` 오히려 키가 조금 줄어드는 편이 옷 고르기 쉬울 정도라구!」`
+`나는 자랑스레 가슴을 펴보였다`
+`성장기를 맞이할 때까지 내 키는 반에서 중간보다는 앞쪽이었다.`
+`그러던 것이 어느 틈엔가 커져 지금은 180cm는 넘어섰다.`
+`이것도 꾸준한 근력 운동과 수상한 통판으로 구입한 근육강화제 덕분이겠지.`
+`키가 일찍 다 자란 조지 형을 10cm나 위에서 내려다보는 날이 오리라곤 꿈에도 생각 못 했다구.`
+`......아아, 친척들에게 우리 배틀러 많이 컸구나 같은 소릴 듣겠지.`
+`...그거, 부끄러워 몸 둘 바를 모르겠으니 좀 참아 줬으면 하는데 말이다.`
+`그건 그렇고, 내이름인 戰人이란,`
+`...뭐랄까, 굉장한 이름이지.`
+`이름붙인 부모의 센스가 의심스럽다.`
+`{n}처음 보고서 제대로 읽어내는 녀석은 거의 없지.`
+`제일 많은 케이스가 '{c:86EF9C:센토}'.`
+`{n}유감이지만 땡이야.`
+`내 이름은 {p:0:右代宮 戰人}.`
+`{n}읽을 수 있겠어?`
+` 성은 '우시로미야'.`
+` 여기까진 아직 봐줄 만하지.`
+`문제는 이름이야.`
+`{n}.........{p:0:戦人} 이라 쓰고 '배틀러' 라 읽는다.`
+`우시로미야 배틀러{p:0:(右代宮 戰人)}.`
+`대단하지?`
+` 이름지은 부모도 그렇지만, 통과시킨 관청 직원도 대단해.`
+` ...그 어느 쪽도, 내가 꼭 죽이고 싶은 인물 리스트 필두에 있지.`
+`그리고 이 사람은 내 사촌 형이야.`
+`이름은 우시로미야 조지{p:0:(讓治)}.`
+`나보다 다섯 살 위니까, 올해로 아마 스물 셋이 될 거다.`
+`{n}우시로미야가에서 사촌 형제는 남자 둘, 여자 둘이었기 때문에 형과는 항상 같이 놀았었지.`
+`그 영향으로 지금도 편하게 형이라 부르는 거다.`
+`「그건 글코, 배틀러도 마이 컸네.`
+` 사별삼일이면 괄목상대라더니 그 말이 맞구마.」`
+`「역시 피는 못 속이나 봐요.`
+` 루돌프도 고등학교 무렵엔 그렇게 안 컸으니까.`
+` 성장기가 느린 편이 나중 가서는 더 자라는 걸지도 모르죠.」`
+`「그건 아니죠.`
+` 남자는 모름지기 알맹이가 따라줘야 하는 법!」`
+`「하모!`
+` 배틀러가 잘 아는구마!`
+` 사나이는 알맹이가 중한 법이데이!`
+` 상시 자기 단련을 잊으믄 안 되는기라.`
+` 그리고 호시탐탐 기회를 보다가 쾅하고 터뜨리는 기다!」`
+`「내도 오늘 이렇게 사장이라는, 한 회사의 어엿한 주인이 될 기라고 마 생각도 몬 했다...`
+` 그래, 그 무일푼 시절의 불탄 폐허가 내 원점인기라...!」`
+`이 풍채 좋고 약간 통통해보이기도 하는 아저씨는,`
+`조지 형의 아버지인 히데요시({p:0:秀吉}) 큰고모부.`
+`다시 말해 내 아버지의 누나의 남편이다.`
+`{n}피는 이어지지 않은 친척인 셈이지.`
+`정말 소탈한 성격에 아이들에게도 다정한데다, 용돈도 짭짤하게 챙겨주는 최고의 고모부다.`
+`인상에 남는 이 이상한 관서풍 사투리는 큰고모부의 오리지널(?) 말투로, 정작 본인은 관동 토박이다.`
+`뭐라더라, 비지니스계에선 자기 어필이 중요하대서,`
+` 다른 사람들보다 색다름을 노린 말투로 자신을 좀 더 인상적으로 보이게 하려는 연출이라는 것 같은데.`
+`......물론 진짜 관서 사람 앞에서는 부끄러워서 표준어로 돌아간다나?.`
+`...잘은 모르겠지만 어쨋든 재밌는 분이란 건 틀림없다.`
+`「금방 자기 자랑 얘기에 빠지는 게 옥에 티라니깐.`
+` 그만 해 둬요.`
+` 배틀러도 귀에 딱지 앉을 정도로 들었을 테니까.`
+` 그치?」`
+`「그 정돈 아니에요. 잇히히!`
+` 그래도 나쁠 거 없잖아요?`
+` 말할 무용담이 있단 건 남자로서 훌륭한 일이라고 생각해요.`
+` 저 같은 건, 자랑할 만한 얘깃거리 하나 없는걸요.」`
+`「어머 그러니?`
+` 배틀러 정도 외모면 여자애들 꽤 울렸을 것 같아서 틀림없이 무용담이 많을 거라 생각했는데?」`
+`「어이쿠,`
+` 노,`
+`농담 마세요!`
+` 그런 묘한 무용담이 있을 리가~!`
+` 오히려 그런 얘긴 이쪽이 듣고 싶은 입장이라구요~!」`
+`「어머, 있을 테네? 무용담.`
+` ...후훗. 고모한테도 나중에 알려 주렴.`
+` 조지란 애는 그런 쪽 얘깃거리가 저언혀 없거든.`
+` 우후후후...」`
+`이 사람은 조지 형의 어머니인 에바({p:0:絵羽}) 큰고모다.`
+`즉 내 아버지의 누나에 해당하는 사람이다.`
+`{n}큰고모부와 마찬가지로 익살스러운 데가 있는 사람이라 옛날부터 곧잘 나를 놀려먹었었지.`
+`그 때문에 어릴 때는 대하기가 약간 거북했던 적도 있다.`
+`{n}...아니. 지금도 대하기 어려운 건 현재진행형으로 확인중이지만.`
+`뭐 그래도 조지 형네 가족은 여러 가지로 재미있는 사람들이라 모두 사이는 좋아 보인다.`
+`......이런 이런. 우리 가족이랑은 한참 다르다.`
+`「배틀러 군.`
+` 루돌프 씨 못 봤니?」`
+`「예?`
+` 아까 화장실 가는 건 봤는데요.`
+` {i:아직}도 안 나왔어요?`
+` 이거 덜컥 가버린 건 아닌지....{c:86EF9C:나무아미타불}."`
+`「자기 아버지한테 그런 말이 어딨어.`
+` 뭐 그 사람 화장실에서 늦는 건 새삼스런 일도 아니지만.」`
+`「맞아요, 그 인간은 옛날부터 그랬다니까요.`
+` 잡지 들고 화장실 가는 건 좀 참아줬음 하는데 말예요.`
 ` Oh, what on Earth might he be doing with those?!`
 ` Ihihi!"`
 `"Oh, you don't need to worry about that at all.`
