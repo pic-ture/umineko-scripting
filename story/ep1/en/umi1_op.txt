@@ -37,116 +37,116 @@
 `「......주인님.」`
 `「미안하네.`
 ` ......약이 떨어져도 죽진 않지만, 이녀석이 떨여져서는 죽을 것 같거든」`
-`With one eye on Nanjo, who had his face set in a resigned expression, Kinzo took the glass that Genji was holding out to him.`
-`...There are probably very few people who would associate the venomous color which filled the glass with an alcoholic beverage.`
-`".........Nanjo.`
-` Be honest with me.`
-` How much time do I have left?"`
-`"Well now...`
-` How short must I make it to get you to stop drinking?"`
-`Nanjo once again let out a sigh of resignation.`
-`{n}As he watched Kinzo down the glass regardless, he spoke.`
-`".........You don't have much time."`
-`"...What precisely do you mean by that?"`
-`"......Let us illustrate it with the chess game here.`
-` You are closing out the game quite well, but I do not ultimately see you cornering my king."`
-`Nanjo's gaze was directed at a side table with a stately chess set placed on top of it.`
-`Judging by the positioning of the pieces, the match was well into the endgame.`
-`{n}The black rook and bishop were cutting deeply into the enemy lines.`
-`The white king had already been castled and cornered, so that even an amateur could see that the match would reach its conclusion before too long.`
-`Every time Nanjo came to give a medical examination, both of them would make a few moves.`
-`Nanjo was stating with confidence that Kinzo would most likely fall into his eternal sleep before this game could be concluded.`
-`...These were less the words of a physician than they were the words of an old friend.`
-`"............Were you a normal patient,`
-` I would recommend that you write a will at this point."`
-`"......And what is a will, Nanjo?`
-` Handwritten instructions to the vultures on how to devour and scatter my corpse?"`
-`"No, not at all.`
-` ......As the word suggests, it is a way for you to record your will for later generations.`
-` It is far more than just a means to divide up your inheritance."`
-`"Hoh.`
-` ......And apart from the division of the inheritance, what might I write of?"`
-`"............Oh, there's your regrets...`
-`and matters you have left unfinished.`
-` Things you want to be passed down...`
-`...and things you want to tell.`
-` ......Anything you want."`
-`"......Hmph.`
-` .........Things I want to be passed down and things I want to tell?`
-` Ridiculous.`
-` I, Ushiromiya Kinzo, have not one thing I want to tell or leave behind!!"`
-`"I was born with nothing.`
-` I will die with nothing!`
-` There is nothing I wish to leave to my foolish children!!`
-` Even if the end were to come today—even if it were to come right now!`
-` I shall accept this fate of death without a trace of fear!!"`
-`"......Kinzo‐san."`
-`"I created everything.`
-` My fortune!`
-` My prestige!`
-` Everything!!`
-` Those were built up by me, and they will be lost along with me.`
-` There is nothing I wish to leave behind!!"`
-`"Nothing!!`
-` After I'm gone, I care not if it all goes to waste!`
-` I desire no tomb, no coffin!!`
-` Those were the terms of the contract I made with the witch!`
-` When I die, everything will be lost!`
-` That has been part of the promise since the beginning, and that's why nothing will be left behind.`
-` There is nothing I can leave behind!!"`
-`After reaching a furious crescendo, Kinzo suddenly slumped over.`
-`...His expression was limp and feeble, as though an evil spirit had possessed him and then left.`
-`"..................`
-` However, I do have one regret.`
-` I have nothing to leave behind, but there is one thing I cannot leave undone..."`
-`".........You would do well to write it down.`
-` Of course, it would be best if you could finish it before your time comes.`
-` However, even if the worst happens, those who come after you will carry it to completion.`
-` You must leave behind your regrets so that they can be resolved even if you are unable to do so yourself.`
-` ......That is the purpose of a will."`
-`When Nanjo tried to gently pat Kinzo's shoulder, the dying man flew into a sudden rage and batted away Nanjo's hand.`
-`"That is no good, no good, no good!!"`
-`"It must be done while I still live! At the moment of my death, my soul will be devoured by the demons of the contract and wiped out of existence!`
-` For me, there will be no peace or another world after death!`
-` That's why everything must be done before I go!!`
-` That's why a will has no meaning for me!!"`
-`"And if I had the time to write such a thing...`
-` ...If I had such time to spare!!`
-` ...I'd want to see it.`
-` I'd want to see it one more time!`
-` I want to see {f:5:Beatrice}'s smiling face one last time!!"`
-`"Oh, {f:5:Beatrice}, why do you resist me so?!`
-` I would return everything you have given me right this very moment—I am prepared to lose everything!!`
-` So please, show me your smile just one more time..."`
-`"{f:5:Beatrice}, I beg of you—you must be able to hear this final plea—that's the kind of woman you are!`
-` I beg of you, show yourself to me!!`
-` You're here, aren't you?!`
-` You're standing there invisible, listening to every word I say, and even now you're mocking me from somewhere in this room, aren't you?!"`
-`"Please, appear before me one more time and smile!!`
-` Feel free to scold me, even snatch away my life by your own hands if you wish!!`
-` I don't want to die alone like this!!`
-` I cannot let myself die until I've seen your smile just one more time!!"`
-`"Aah, {f:5:Beatrice}, {f:5:Beatrice}!!`
-` I offer up this life of mine, I offer it up to you!!`
-` I'm begging you, {f:5:Beatriceeeeee}!!!"`
-`"Whoa...`
-` Things sure move with the times...`
-` I can't believe we'll be able to make the trip in just twenty minutes..."`
-`I couldn't help but scratch my head and marvel at how far things have come in recent years.`
-`{n}We used to go by boat.`
-`Back then, we were all forced to endure nearly half a day of swaying back and forth over the sea before we reached Niijima.`
-` Things have gotten so much more convenient these days.`
-`Still, I've never been on a plane this small.`
-`{n}I've flown in a huge jumbo jet before, but this will be my first experience in such a tiny one.`
-`...It's going to shake, isn't it...`
-` They say that smaller boats shake more, so I guess the same rule probably applies to planes.`
-`...Aaah, just spare me.`
-`"Haahahaha, don't worry, Battler‐kun.`
-` It'll shake much less than that boat did."`
-`"Gyah?! ...I‐is that you, George‐{c:86EF9C:aniki}?!"`
-`"Heheh, don't scare me like that... You just shaved three years off my life.`
-` Anyway, what's shaking got to do with anything?"`
-`"Ihihihi, you don't think I'm actually scared of the plane shaking or maybe falling out of the sky or something, ri~ght?"`
+`체념하는 듯한 표정을 띠는 난죠를 무싷나 채, 킨조는 겐지가 건넨 글라스를 받는다.`
+`...한가득 찬 그 독기 어린 색을 보고 그것이 술임을 알아차릴 사람은 많지 않을 것이다.`
+`「.........난죠.`
+` 솔직하게 말하게.`
+` 내 목숨은 앞으로 얼마나 남았나?」`
+`「글쎄요...`
+` 얼마인지 말씀드리면, 술을 삼가실는지요.」`
+`난죠는 다시한번 체념의 한숨을 내쉰다.`
+`{n}그리고, 결국은 술을 들이켜는 킨조를 보며 말한다.`
+`「........길지는 않습니다.」`
+`「...어느 정도로 길지 않다는 겐가.」`
+`「..... 이 체스에 빗대오 보죠..`
+` 킨조 씨의 끝내기 수순도 꽤 훌륭하긴 합니다만, 제 킹을 끝까지 몰아붙이기엔 역부족입니다.」`
+`난죠의 시선에 놓인 사이드 테이블에는 증후한 체스 세트가 올려져 있었다.`
+`말드를 보는 한, 게임은 거의 종반에 접어들어 있었다.`
+`{n}흑 룩과 비숍이 적진 깊숙이 파고들어 있다.`
+`백 킹은 이미 캐슬링 후 궁지에 몰린 상태라, 초보자가 봐도 승부가 나기까지는 그리 오랜 시간이 걸리지 않을 것임을 알 터 였다.`
+`이 체스는 난죠가 진찰 일로 방문할 때마다 몇 수씩 진행시켜 온 것이다.`
+`그런 판을 가리키며, 결판이 나는 것보다 킨조가 영면하는 편이 빠를 거라 난죠는 단언한다.`
+`...그것은 의사로서라기보단, 오랜 친구로서의 말이었다.`
+`「............보통의 환자라면,`
+` 유언을 쓰길 권장할 시기입니다.」`
+`「......유언은 무슨 소린가, 난죠.`
+` 내 시체를 어떻게 뜯어먹을지 독수리 떼들에게 지침서라도 써 주란 말인가?」`
+`「아니요, 다릅니다.`
+` ......유언이란 의사를 남기는 겁니다.`
+` 유산 분배 일만을 적는 게 다가 아니에요.」`
+`「호오.`
+` ......유산 분배 이외의 쓸 얘기란 뭔가.」`
+`「............마음에 걸리는 일이나,`
+`미처 끝내지 못한 일.`
+` 이어받았으면 하는 일이라든지,`
+`...전하고 싶은 것.`
+` ......어떤 거라도 좋습니다.」`
+`「......하.`
+` .........이어받았으면 하는 일이나 전하고 싶은 거라고?`
+` 어이가 없군.`
+` 나 우시로미야 킨조는, 앞으로 남기고 싶은 것도 전하고 싶은 것도 단 하나도 없어!!」`
+`「알몸으로 세상에 태어났다.`
+` 그리고 알몸으로 죽는다!`
+` 바보같은 자식놈들에게 남기고 싶은 것 따위 아무것도 없어!!`
+` 설사 죽을 때가 오늘이라도, 지금 당장이라 해도!`
+` 난 무엇도 두려워 않고 그 죽음의 운명을 받아들일 것이다!!」`
+`「......킨조 씨.」`
+`「모든 것을 쌓아올렸다.`
+` 부도!`
+` 명예도!`
+` 모든 것을!!`
+` 그것들은 나와 함께 쌓아올려졌으니, 나와 함께 사라질 것이다.`
+` 나중에 남겨줄 것 따위 아무것도 없다!!」`
+`「아무것도 없어!!`
+` 죽은 뒤 일은 어찌 되든 알 바 아니다!`
+` 무덤도 관도 아무것도 바라지 않아!!`
+` 그것이 마녀와 나의 계약이다!`
+` 내가 죽을 때 모든 것을 잃는다!`
+` 처음부터 그런 약속이었으니, 무엇도 남지 않는것이다.`
+` 무엇도 남길 수 없는 것이다!!」`
+`거기까지를 단숨에 뱉어내고는, 킨조는 갑자기 어깨를 축 늘어뜨렸다.`
+`...그 표정은, 마치 악령으로부터 빙의가 풀리기라도 한 듯 힘없어 보였다.`
+`「..................`
+` 하지만 미련은 있지.`
+` 남길 것은 아무것도 없지만, 남겨 놓고 떠날 수 없는 게 딱 하나 있네...」`
+`「.........그걸 적으면 됩니다.`
+` 물론, 살아 있는동안 끝낼 수 있다면 그걸로 좋겠죠.`
+` 하지만 혹시 그렇게 못할 때는 남겨진 사람들이 이어받아 줄 겁니다.`
+` 자신에게 만일의 사태가 오더라도, 반드시 그 못다 한 일을 이루도록 남겨 둔다.`
+` ......그것이 유언이란 거지요.」`
+`난죠가 부드럽게 어깨를 두드리려 하자, 갑자기 격양한 킨조가 난죠의 손을 뿌리친다.`
+`「안 돼, 안 돼, 안 돼!!」`
+`「내가 살아 있는 동안이 아니면 안 된다, 내가 죽으면 내 혼은 곧 게약의 악마에게 먹혀 사라지고 말아!`
+` 사후 세계도 안식도 내겐 허락되지 않는단 말이다!`
+` 그러니 모든 건 내가 살아 있는 동안이 아니면 안 돼!!`
+` 그러니 유언장 따위 내겐 필요 없어!!`
+` 그런 걸 쓸 틈이 있다면...`
+` 있다면!!」`
+`「...난 보고 싶다.`
+` 다시 한 번 보고 싶다!`
+` 베아트리체의 미소 짓는 얼굴이 다시 한 번 보고 싶다!!`
+` 아아, 베아트리체, 어째서 나를 이렇게까지 거부하는 건가!!`
+` 이제야말로 네게 받은 모든 것을 돌려주마, 모든 것을 잃으마!!`
+` 그러니 마지막으로 다시 한 번만 너의 미소를 보여다오...」`
+`「베아트리체, 제발 부탁한다, 분명 들리고 있을 터, 너는 그런 여자다!`
+` 부탁한다, 모습을 보여 다오!!`
+` 어딘가에 있는 거지?!`
+` 다 듣고 있으면서 모습을 숨기고, 지금도 이 방 어딘가에서 날 비웃고 있지?!`
+` 내 앞에 다시 한 번 나타나 다오, 그리고 미소지어 다오!!`
+` 날 꾸짖어도 좋아, 원한다면 네 손으로 내 목숨을 빼앗아도 좋다!!`
+` 이대로 혼자 죽고 싶지 않아!!`
+` 너의 미소를 다시 보기 전까진 절대 죽을 수 없다!!"`
+` 아아, 베아트리체, 베아트리체!!`
+` 이 목숨을 줄 테니, 너에게 줄 테니!!`
+` 제발, 베아트리체에에에에에에!!」`
+` 「이야.`
+` 세상 참 좋아졌네...`
+` 단 20분만에 도착한다니 놀랍구만...」`
+`머리를 긁으며 시대의 진보에 그저 경탄할 따름이다.`
+`{n}이전에는 배였다.`
+`니지마 도착까지 꼬박 반나절은 흔들렸어야 했는데 말이야.`
+` 편리한 시대가 된 거다.`
+`하지만 저렇게 작은 비행기에는 탄 적이 없다.`
+`{n}커다란 점보제트기라면 타 봤지만 이런 스몰 사이즈는 처음이다.`
+`...역시 흔들리려나.`
+` 배도 작은 쪽이 더 크게 흔들린다니까, 역시 비행기도 그런 걸까.`
+`...하아, 어디다 빌고 싶은 심정이다.`
+`「하하하하, 괜찮아, 배틀러..`
+` 배에 비하면 훨씬 덜 흔들리니까.」`
+`「우왓, 조, 조지 {c:86EF9C:형}이야?」`
+`「헤헤, 갑자기 놀래키지 말라구. 방금 걸로 수명이 3년은 준 것 같으니까.`
+` 것보다, 흔들린다니 무슨 말씀이신지?`
+` 잇히히히, 난 딱히 비행기도 흔들리는 걸까, 설마 떨어지진 않겠지~라고, 꿈에도 생각 안 했다구?"`
 `"Oh, of course not, my mistake.`
 ` I'm sure that you've changed a lot since we last saw you.`
 ` After all, it's been six years since then.`
