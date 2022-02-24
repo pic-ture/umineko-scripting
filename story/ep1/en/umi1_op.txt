@@ -146,7 +146,7 @@
 `「우왓, 조, 조지 {c:86EF9C:형}이야?」`
 `「헤헤, 갑자기 놀래키지 말라구. 방금 걸로 수명이 3년은 준 것 같으니까.`
 ` 것보다, 흔들린다니 무슨 말씀이신지?`
-` 잇히히히, 난 딱히 비행기도 흔들리는 걸까, 설마 떨어지진 않겠지~라고, 꿈에도 생각 안 했다구~?」`
+` 잇히히히, 난 딱히 비행기도 흔들리는 걸까, 설마 떨어지진 않겠지〜라고, 꿈에도 생각 안 했다구〜?」`
 `「미안, 미안..`
 ` 이제 어릴 때완 다르지.`
 ` 그때 이후로 6년이나 지났고.`
@@ -158,12 +158,12 @@
 `「내 경우엔 좋아서 마신다기보단 일 때문에 마실 대가 많으니까.`
 ` 일본에서 술 없이 사업하기란 어려워.」`
 `「잇히히!`
-` 그렇지~?!`
-` 그래서 나도 평소에 예습복습을 빼먹지 않거든~!」`
+` 그렇지〜?!`
+` 그래서 나도 평소에 예습복습을 빼먹지 않거든〜!」`
 `「아, 안 돼, 배틀러는 아직 미성년자잖아!`
 ` 미성년자의 음주는 발육에 악영향을 끼칠 가능성이...`
-`으, 으~음.」`
-`「이 정도 덩치면 발육은 충분하단 말씀~!!`
+`으, 으〜음.」`
+`「이 정도 덩치면 발육은 충분하단 말씀〜!!`
 ` 오히려 키가 조금 줄어드는 편이 옷 고르기 쉬울 정도라구!」`
 `나는 자랑스레 가슴을 펴보였다`
 `성장기를 맞이할 때까지 내 키는 반에서 중간보다는 앞쪽이었다.`
@@ -230,8 +230,8 @@
 `「어이쿠,`
 ` 노,`
 `농담 마세요!`
-` 그런 묘한 무용담이 있을 리가~!`
-` 오히려 그런 얘긴 이쪽이 듣고 싶은 입장이라구요~!」`
+` 그런 묘한 무용담이 있을 리가〜!`
+` 오히려 그런 얘긴 이쪽이 듣고 싶은 입장이라구요〜!」`
 `「어머, 있을 테네? 무용담.`
 ` ...후훗. 고모한테도 나중에 알려 주렴.`
 ` 조지란 애는 그런 쪽 얘깃거리가 저언혀 없거든.`
@@ -247,18 +247,18 @@
 ` 루돌프 씨 못 봤니?」`
 `「예?`
 ` 아까 화장실 가는 건 봤는데요.`
-` 아~직도 안 나왔어요?`
+` 아〜직도 안 나왔어요?`
 ` 이거 덜컥 가버린 건 아닌지....{c:86EF9C:나무아미타불}.」`
 `「자기 아버지한테 그런 말이 어딨어.`
 ` 뭐 그 사람 화장실에서 늦는 건 새삼스런 일도 아니지만.」`
 `「맞아요, 그 인간은 옛날부터 그랬다니까요.`
 ` 잡지 들고 화장실 가는 건 좀 참아줬음 하는데 말예요.`
-` 대체 뭔 잡지를 갖고 들어가서 뭘~ 하려는 걸까? `
+` 대체 뭔 잡지를 갖고 들어가서 뭘〜 하려는 걸까? `
 ` 잇히히!」`
 `「어머, 그런 걱정은 전혀 할 필요 없어.`
 ` 나랑 같이 있는 이상 혼자 그런 짓 하게 놔두진 않을 테니까.」`
 `「힛히히!`
-` 무~슨 말인지 나중에 천천히 듣고 싶은대요?`
+` 무〜슨 말인지 나중에 천천히 듣고 싶은대요?`
 ` 그 인간, 아랫도리까지 잡혀서 찍소리도 못하는 모양이구만.」`
 `「잡아 놓지 않으면 어떻게 될지 잘 알지?」`
 `「아, 정말이지.`
@@ -283,16 +283,16 @@
 `키리에 씨도 그런 쪽으론 매우 유연한 사람인 덕에 어떻게든 함께 잘 지내고 있다는 말이다.`
 `그렇게 화장실에 가고 없는 아버지의 흉으로 달아오르고 있자니,`
 ` 그 당사자가 손수건으로 손을 닦으며 돌아온다.`
-`「으응~?`
-` 배틀러~」`
+`「으응〜?`
+` 배틀러〜」`
 `「뭐야, 아버지.」`
 `「...아야야야!`
 ` 귀 꼬집지 마, 귀!」`
 `「또 엄마랑 내 흉 봤지?`
-` 어째서 너한텐, 아버지에 대한 존경심이란 게 없는 걸까~?」`
+` 어째서 너한텐, 아버지에 대한 존경심이란 게 없는 걸까〜?」`
 `「아야야야 아얏!`
 ` 아프다구 망할 아버지야!`
-` S내 귀는 아무리 늘려봤자 하늘은 못 난다구. 아야~~!!」`
+` 내 귀는 아무리 늘려봤자 하늘은 못 난다구. 아야〜〜!!」`
 `「자 자.`
 ` 상,`
 ` 상,`
@@ -338,7 +338,7 @@
 `미용인지 뭔지의 이유로 태극권을 시작했다가 거기서부터 중국 권법에 흥미를 가져,.`
 ` 이후로 가라테에 태권도, 카포에라 등 여러 무술을 전전하다가, ... 요샌 뭘 배우려나?`
 `...뭐 어쨋든, 큰고모가 여자의 무기는 하반신이라거나 말할 때는 말 그대로의 의미를 가진다는 거다.`
-`「루우돌~프으~?`
+`「루우돌〜프으〜?`
 ` 측두부 직격이면 한 방에 졸도하는건 몰라?`
 ` 지난번 연무시범 때는 실수해서 상대가 거품을 물 정도였다구」`
 `「...하아, 이런 이런.`
@@ -395,7 +395,7 @@
 `「...농담 마.`
 ` 누나가 말해.`
 ` 내가 무슨 말을 해도 형은 안 듣는다구.」`
-`「싫~어.`
+`「싫〜어.`
 ` 난 그다지 10월이라도 곤란하지 않은걸.`
 ` 루돌프가, 태풍이 싫다는 둥 얘기하니까, 제안해보지 그래?`
 ` 라고 말한 것뿐이야.」`
@@ -440,218 +440,218 @@
 `{n}.........라니, 기세만은 하늘을 찌른다.`
 `항간에 유행하는 자아 찾기 여행이란 거라도 떠나 볼까나?`
 `{n}......그럴 돈을 집에서 내줄 리도 없지만.`
-`"......hm?! Ohh~!"`
-`Right then, Uncle Hideyoshi shouted out loudly.`
-`{n}Uncle's a really nice person on the whole, but he does have a problem controlling the volume of his voice.`
-`When I looked over, I saw that he was greeting Auntie Rosa, who had come late.`
-`"Ohoooooooooh!!!`
-` If it isn't Rosa‐san!`
-` Maria‐chan, long time no see!!"`
-`"Long time no seee!`
-` Uu!"`
-`"Maria!`
-` Shouldn't that be "It's good to see you again"?`
-` Greet your uncle properly."`
-`"Uu.`
-` It's...good to see you again..."`
-`"There you go!`
-` Well said!`
-` How about some candy as a reward?!`
-` ......Oh, huh?`
-` Where'd I put 'em..."`
-`"Rosa‐san, it's good to see you again.`
-` It's good to see you too, Maria‐chan."`
-`"It's been too long, Kyrie nee‐san, Hideyoshi nii‐san."`
-`"...And...`
-`...oh my, Battler‐kun?!`
-` Look how big you've gotten...!"`
-`"Ah, come on, hahaha...`
-` It's embarrassing hearing that from every person I meet...!"`
-`"Hey, Rosa.`
-` You're late.`
-` If the plane was on time, you'd barely have made it..."`
-`"I'm sorry.`
-` We had some trouble making our train connection.`
-` So we're waiting on the weather yet again?"`
-`"Oh, don't complain.`
-` I much prefer the thirty‐minute plane trip to spending six hours bouncing about on a boat.`
-` Even if we're kept waiting here for an hour, it's still much faster overall."`
-`"Maria‐chan's gotten huge too!!`
-` So, how tall are you now?"`
-`"Uu!`
-` So, how tall am I now?!"`
-`Maria parroted Uncle Hideyoshi's question, looking up at her mother.`
-`I guess she doesn't remember her own height.`
-`{n}She's probably right in the middle of a growth spurt, so her height must change every month.`
-`In just a few more years, she'll probably start looking very feminine.`
-`"Umm, ...how tall were you the last time you got measured...?`
-` She just keeps getting bigger and bigger.`
-` Don't you?"`
-`"Uu!"`
-`"I think she's grown a lot since last year.`
-` Let's see, she turned nine years old this year, didn't she?"`
-`"Nine years old.`
-` Uu."`
-`"That's right, you're nine years old now.`
-` Glad to see you're doing well too, Maria‐chan!"`
-`"Up you...`
-`...nng...`
-` I guess you've gotten a bit too heavy to play airplane with..."`
-`"George‐aniki, what a rude thing to say to a lady.`
-` Here, I'll do it... Up ya go~..."`
-`"......Uu."`
-`When I went to lift her up in Aniki's place, Maria stiffened defensively, staring suspiciously at my face.`
-`...Ah, that's right.`
-` The last time I met Maria, it was six years ago, and she was only three years old.`
-`Of course she doesn't remember my face.`
-`"Maria‐chan, don't you remember?`
-` It's Battler‐kun.`
-` You used to play together, remember?"`
-`".........Uu."`
-`"I doubt you'll have any luck.`
-` The last time she met Battler, she was only three.`
-` You don't keep memories at that age."`
-`She must know everyone's face apart from mine because she meets them every year, but I haven't had contact with the Ushiromiya family for about six years now.`
-`So, it's no surprise that this nine‐year‐old girl doesn't have any memories of me.`
-`Even I can only just barely remember her being a three‐year‐old crybaby.`
-`"Maria.`
-` This is Battler onii‐chan.`
-` Uncle Rudolf's son.`
-` ...Understand?"`
-`"............Uncle's son is...`
-` Uncle's the son...`
+`「......흠?! 오〜!」`
+`그때, 큰고모부가 큰 소리를 냈다.`
+`{n}큰고모부는 기본적으로는 좋은 사람이지만, 목소리의 볼륨 조절이 안 되는 게 흠이다.`
+`돌아보니, 늦게 온 작은고모네를 마중하는 중이었다.`
+`「오 오 오!!`
+` 처제 왔나!`
+` 마리아도 잘 있엇노!!」`
+`「잘 있었어─!`
+` 우─!」`
+`「마리아!`
+` ‘잘 있었어요’라고 해야지?`
+` 다시 해 봐.」`
+`「우─`
+` 잘 있었어, 요...」`
+`「옳지!`
+` 잘 했데이!`
+` 상으로 사탕 줄 구마!`
+` ......어라?`
+` 어데 치았드라...」`
+`「로자 아가씨, 오랜만이에요.`
+` 마리아도 오랜만이네.」`
+`「오랜만에 뵙네요, 작은새언니, 형부`
+`...그리고...`
+`...어머, 배틀러니?!`
+` 많이 컸구나...!」`
+`「이야, 하하하아...`
+` 오늘은 만날 때마다 그 소릴 듣는 통에 부끄럽다니까요...!」`
+`「여, 로자.`
+` 늦었구만.`
+` 비행기 예정대로였으면 아슬아슬할 뻔했어...」`
+`「미안해요.`
+` 열차 환승이 여의치 않아서.`
+` 뭐야, 또 기후조사중이에요?」`
+`「불평 마.`
+` 배로 6시간이나 흔들리면서 가는 것보단 단 30분밖에 안 걸리는 비행기 쪽이 백배 낫잖아?`
+` 비록 1시간 더 기다린대도 그 편이 훨씬 빠르니까.」`
+`「마리아도 마이 컸구마아!!`
+` 지금 니 키 몇이고?」`
+`「우─!`
+` 니 키 몇이고─!」`
+`큰고모부의 질문을 앵무새처럼 따라하고서, 마리아는 어머니에게 묻는다.`
+`자기도 지금 키가 몇인지 잘 모르는 듯하다.`
+`{n}한창 자랄 나이이니 키 같은 건 매달 변하겠지.`
+`이제 몇 년만 지나면 단숨에 성숙해질 거다.`
+`「으음..., 저번 신체검사에서 얼마인지 나왔었지?`
+` 이래봬도 조금씩은 자라고 있어요.`
+` 그치?」`
+`「우─!」`
+`「작년보다도 훨씬 큰 것 같네요.`
+` 음, 올해로 아홉 살이던가?」`
+`「아홉 살.`
+` 우─.」`
+`「그래, 아홉 살이구나.`
+` 마리아도 건강해 보여서 다행이야!`
+` 영차,`
+`으음,`
+` 이제 높이 들어올리기엔 조금 무거우려나...」`
+`「우왓, 조지 형, 그거 숙녀에게 실례잖아.`
+` 자 내가 올려 줄게, 훠이 훠이〜.」`
+`「....우─」`
+`형을 대신해 마리아를 안아 올리려 하자, 마리아는 그것을 거부하는 듯이 몸을 굳히며, 내 얼굴을 의심스러운 듯 찬찬히 쳐다본다.`
+`...아, 그렇겠지.`
+` 어쨌든 6년 만이란 건 마지막으로 마리아를 본 게 세 살일 때란 거다.`
+`내 얼굴이 기억날 리도 없지.`
+`「마리아, 기억나니?`
+` 배틀러 오빠야.`
+` 같이 놀았던 것 잊어버렸어?」`
+`「.........우.」`
+`「무리야.`
+` 마지막으로 배틀러랑 만난 게 세 살 때니까.`
+` 세 살 때 기억 따위 남아 있을 리가 없지.」`
+`나 이외와는 매년 만나고 있으니 면식도 있겠지만, 나는 6년 정도 우시로미야가하고는 연이 없었다.`
+`그러니 아홉 살인 마리아에게 기억이 남아 있지 않은 것도 무리는 아니다.`
+`나 또한 세 살 무렵의 울보였던 마리아에 대한 기억이 흐릿하게 남아 있을 뿐이고 말이다.`
+`「마리아.`
+` 배틀러 오빠야.`
+` 둘째 삼촌의 아들.`
+` ...알겠니?」`
+`「............둘째 삼촌의 아들이.`
+` 엄마의 오빠의 아들.`
 ` ............??`
-` ......Uuuu!!"`
-`That "uu" was probably the sound of her brain breaking, unable to understand the complicated explanation.`
-`I guess it was a bit too confusing for her.`
-`"Maria‐chan.`
-` This is Battler‐kun.`
-` He's your cousin, like me."`
-`"......Like George onii‐chan?`
-` ...........................Battler?`
-` Cousin?`
-` ......Uu."`
-`"That's right.`
-` You got it."`
-`This part of Aniki is what makes me really look up to him.`
-`For someone who isn't married, he's just great at dealing with kids.`
-`{n}I'm sure that he'll be an indulgent father in the future.`
-`"...Battler onii‐chan?"`
-`Maria looked straight at me with a questioning expression, as though asking whether it was alright to call me that.`
-`"Yep, that's me, Battler.`
-` Nice to meet you, Maria!"`
-`"Uu!`
-` Battler!"`
-`"Maria!`
-` You mustn't address him without honorifics—call him Battler onii‐chan...!"`
-`"It's cool, Auntie Rosa.`
-` I don't sweat the small stuff.`
-` Right, Maria?!`
-` We're buddies on a first‐name basis, us two, aren't we?!"`
-`"Battler, Battler, Battleeerrr!`
-` Uu‐uu!"`
-`"That's right, Maria, Maria, Mariaaa!`
-` Uu‐uu!!"`
-`We horsed around for a while to make up for the six‐year gap in our friendship.`
-`She probably still thinks of me as nothing more than a big new friend, but things'll probably work out as we get to know each other again.`
-`But I'm surprised.`
-` She's just the way I remembered her being six years ago.`
-`Seems that people just don't change that much after all.`
-`{n}I'm a bit happy that she's still the pure, innocent girl I remember.`
-`Her name is written {p:0:真里亞}.`
-`{n}...That one's not so difficult to read.`
-` Of course, it says "Maria".`
-`{n}The third character looks like a cross, which is pretty cool.`
-`Her feelings don't usually show up on her face, so it can be difficult to know just what she's thinking, but that's just how she looks on the outside.`
-`{n}On the inside, she's just a sweet, normal girl.`
-`Then there's Maria's mother, Auntie Rosa.`
-`{n}She's my dad's younger sister.`
-`Rosa is written {p:0:楼座}.`
-` ...Here's a name that's totally not Japanese.`
-`Sorry to say it, but her name's almost as ridiculous as Dad's...`
-` I've got to respect her for not ending up as screwed up as he is.`
-`...When I think about it, all the names in my family sound foreign.`
-`{n}Just why is Grandfather so obsessed with this?`
-`Because of him, even us grandchildren have to put up with this weird naming sense.`
-`{n}It's even more annoying since Grandfather's own name is perfectly normal.`
-`Anyway, there's one thing about Auntie Rosa that's a relief compared to the other family members.`
-`The old bastard and Auntie Eva have this annoying urge to tease and mock people all the time,`
-` but even though she shares their blood, Auntie Rosa isn't like that at all.`
-`She has the most common sense among all the siblings.`
-`Like Uncle Hideyoshi, she's a kind aunt who'll always be on the kids' side.`
-`......However, possibly because she's more strict as a parent, she's not liberal with handing out spending money like Uncle Hideyoshi is.`
-`Alright.`
-` Now we have the entire group of family members who are going to board the plane.`
-`As though it had waited for us all to gather, an announcement rang out through the lobby.`
-`"Our apologies for the wait.`
-` Boarding will now commence for flight 201 to Niijima.`
-` We ask that the passengers please form two lines in front of the counter, behind the white line."`
-`"Rosa, you still haven't gone through boarding procedures, right? Hurry up."`
-`"Oh no...!`
-` Maria, come on!"`
-`"Uu!"`
-`We had to go through a metal detector before going out on the runway.`
-`Our small plane wasn't as massive as an international flight, but it was still a plane.`
-` A staff member holding a metal detector checked us all.`
-`Once all of us cleared the check, we followed the staff member out onto the runway.`
-`Come to think of it, everyone here is in the Ushiromiya family.`
-`It's like this is a reserved charter flight or something.`
-`Our group stopped in front of the entrance to the airplane.`
-`{n}Then, our guide turned around and spoke, looking down at the passenger list as she did.`
-`"Boarding will now commence.`
-` As I call out the names on the passenger list,`
-` please take your seats in order, starting from the front row on the right side and going right to left, then onto the next row.`
-` I will now begin reading the passenger list.`
-` Ushiromiya Hideyoshi‐sama!"`
-`"Oh, I'm first!`
-` Right here!`
-` ...By the way, do you have the candies, Eva?`
-` I've been lookin' all over for 'em, but I can't find 'em."`
-`"Ushiromiya Eva‐sama."`
-`"They're in my handbag.`
-` I'll get them once we're inside the plane."`
-`I've heard that candies are a good way to protect your ears from hurting due to variations in atmospheric pressure when landing or taking off.`
-` That's probably what they're talking about.`
-`"...Hope I get a window seat!"`
-`"Hahaha, don't worry.`
-` There aren't any other kinds of seats."`
-`According to George‐aniki, there are apparently only two lines of seats.`
-`Yep, it's a small plane alright...`
-` .........It isn't really going to shake...is it...?`
-`"Ushiromiya George‐sama."`
-`"Right here.`
-` Don't worry, Battler‐kun.`
-` It won't shake too much."`
-`"Ushiromiya Battler‐sama."`
-`"A‐Aniki, how much is "not too much"?!`
-` You can just swim if you fall from a boat, but if a plane crashes you're screwed, right?!`
-` We all get our own parachutes in our seats, don't we?`
-` Wait, we don't?!"`
-`"Ushiromiya Rudolf‐sama."`
-`"Come on, Battler, quit being a wuss and get in."`
-`"Ow! Dad!`
-` Don't push me!`
-` We don't get parachutes!"`
-`"Ushiromiya Kyrie‐sama."`
-`"Alright, stop fooling around.`
-` Let's move along."`
-`"Ow! Kyrie!`
-` Don't push me!`
-` This blockhead isn't moving forward!"`
-`"Ushiromiya Maria‐sama."`
-`"Uu!`
-` Forward, forward!"`
-`"Ushiromiya Rosa‐sama."`
-`"Maria!`
-` Keep quiet..."`
-`"This is your pilot, Kawabata.`
-` We'd like to thank you for taking New Tokyo Aviation's flight 201 today.`
-` We estimate that the flight to Niijima Airport will take about twenty minutes."`
-`"We are receiving reports of atmospheric turbulence.`
-` There might be some shaking of the aircraft, so we ask that you do not unfasten your seat belts after takeoff."`
-`"A‐Aniki, did that guy just say we needed to wear seatbelts?!`
-` In a jumbo jet, they let you undo them after takeoff!`
-` So it's gonna shake so much we can't take them off?!"`
-`"Dammit, you tricked me, it is going to shake after all!`
-` Where are the parachutes?!`
-` I knew I should've taken the boooooaaaaat!!"`
+` ......우우우우─!!」`
+`저 ‘우─’하는 소리는 아마 복잡한 설명이 이해되지 않아 머리가 과열될 때 나는 소리겠지.`
+`조금 설명이 복잡하긴 했을 거다.`
+`「마리아.`
+` 이 오빠는 배틀러.`
+` 나와 마찬가지로 사촌이야.」`
+`「조지 오빠랑 마찬가지?`
+` ...........................배틀러?`
+` 사촌?`
+` ......우─.」`
+`「그래.`
+` 잘 아는구나.」`
+`이런 점을 보면 형은 정말 능숙하다고나 할까, 어른이구나 하고 느낀다.`
+`미혼 주제에 애들 어르는 법이 너무 완벽하다.`
+`{n}필시 장래에 자식을 끔찍이 아끼는 아버지가 되겠지.`
+`「...배틀러 오빠?」`
+`그렇게 불러도 좋을까 묻는 듯한 눈초리로, 마리아가 나를 가만히 쳐다본다.`
+`「그래 내가 배틀러야.`
+` 잘 부탁한다 마리아!」`
+`「우─!`
+` 배틀러!」`
+`「마리아!`
+` 그렇게 부르면 안 돼, 배틀러 오빠라고 불러야지...!」`
+`「괜찮아요, 작은고모.`
+` 자잘한 일은 신경 쓰지 않으니까.`
+` 그치, 마리아!`
+` 너랑 나는 이름으로 부르는 사이지?!」`
+`「배틀러 배틀러 배틀러어!`
+` 우─우─!」`
+`「그래, 마리아 마리아 마리아아!`
+` 우─우─!!」`
+`6년의 공백을 채우듯, 잠시 동안 우리는 쉬지 않고 장난을 주고 받았다.`
+`마리아로선 아직은 처음 보는 커다란 오빠로밖에 생각되지 않겠지만, 그런 건 천천히 친해져 가면 될 일이다.`
+`그건 그렇고, 참 놀랐는걸.`
+` 내 안에 남아 있던 6년 전의 마리아에 대한 기억과 별반 다르지 않다.`
+`역시 인간은 그렇게 쉽게 변하는 게 아닌가 보다.`
+`{n}이미지 그대로의 천진무구한 아이로 있어 줘서 조금 기쁘다.`
+`이 아이의 이름은 우시로미야 眞里亞.`
+`{n}...眞里亞는 읽을 수 있지?`
+` ‘마리아’라고 읽는다.`
+`{n}세번째 글자가 십자가처럼 보이는게 꽤 이쁘다.`
+`감정을 그다지 얼굴에 드러내지 않기 때문에 뭘 생각하는지 알기 어렵지만, 그건 어디까지나 표정만의 문제다.`
+`{n}내면은 붙임성 좋은 보통의 여자아이와 다르지 않다.`
+`그리고 작은고모.`
+`{n}우리 아버지의 여동생이다.`
+`樓座라 쓰고 로자라고 읽는다.`
+` ...이래선 완전히 외국인 이름이다.`
+`실례지만 우리 아버지 루돌프와 쌍벽을 이루는 터무니없는 이름이다...`
+` 그럼에도 아버지와 달리 비뚤어지지 않은 작은고모는 참 훌륭하다.`
+`...생각해 보면 아버지 형제들은 전부 외국인 같은 이름을 하고 있다.`
+`{n}할아버님의 취향인 걸까.`
+`그 덕분에 손자인 우리까지 피해를 보고 있지만 말이다.`
+`{n}그런 주제에 할아버님의 이름은 보통의 일본인 같은 이름이니 열 받을 수밖에.`
+`하지만 작은고모는 다른 친척들과 비교헤서 한숨 돌릴 수 있다.`
+`망할 아버지나 큰고모에게는 사람을 놀리거나 골려먹으려는 이상한 성미가 있는 데 반해,`
+` 같은 피를 이었어도 작은고모에게는 그런 면이 없다.`
+`아버지 형제들 중에선 제일 상식인인 거다.`
+`큰고모부와 마찬가지로 언제나 아이들 편에 있어 주는 상냥한 고모다.`
+`......다만 교육적인 면에선 엄격한 건지, 큰고모부처럼 선뜻 용돈을 주거나 하지 않는 점만은 아쉽다.`
+`자 그럼.`
+` 이것으로 비행기에 탈 친족은 모두 모였다.`
+`마치 그것을 지켜보고 있었다는 듯한 타이밍에, 로비에서 방송이 나왔다.`
+`「기다리게 해서 죄송합니다.`
+` 니지마 행 201편의 탑승을 지금부터 개시합니다.`
+` 탑승하실 손님께서는 카운터 앞의 흰색 선 앞에 두 줄로 서 주십시오.」`
+`「로자, 탑승수속 아직 안 했지? 어서 서둘러.」`
+`「큰일이네...!`
+` 마리아, 가자!」`
+`「우─!」`
+`활주로로 나가기 전에 금속탐지검사를 받는다.`
+`국제선처럼 삼엄하진 않았지만, 소형기라고는 해도 일단은 비행기다.`
+` 금속탐지기를 가진 직원에게 몸 수색을 받는다.`
+`줄선 전원의 체크가 끝난 후 직원의 안내에 따라 활주로로 나왔다.`
+`그 행렬을 가만히 보아하니, 우시로미야 일족밖에 없다.`
+`이래선 무슨 전세항공기 같잖아.`
+`비행기의 탑승구 앞에서 행렬은 멈춘다.`
+`{n}앞에서 안내하던 직원이 돌아서서는 명부를 보며 말했다.`
+`「그럼 지금부터 탑승하시겠습니다.`
+` 명부를 읽어드릴 테니,`
+` 전방 좌석 우측부터 순서대로 오른쪽, 왼쪽, 다음 열 오른쪽, 왼쪽 이런 식으로 채워 앉으시기 바랍니다.`
+` 그럼 읽겠습니다.`
+` 우시로미야 히데요시 님!」`
+`「내부터고!`
+` 예!`
+` ...아 에바야, 사탕 있나?`
+` 쫌 전부터 찾았는데 안 보인데이.」`
+`「우시로미야 에바 님.」`
+`「핸드백 안에 있어요.`
+` 안에 가서 꺼낼 게요.」`
+`이착륙 시의 기압 변화로 귀가 아픈 것을 방지하는 데에 사탕이 좋다는 얘기가 있었지.`
+` 그 때문일 거다.`
+`「...내 자린 창가였으면 좋겠다!」`
+`「하하하, 괜찮아.`
+` 창가석밖에 없으니까.」`
+`조지 형에 따르면 좌석은 2열밖에 없다고 한다.`
+`Y역시 소형기다...`
+` .........정말로 안 흔들리는 거지...?`
+`「우시로미야 조지 님.」`
+`「네.`
+` 괜찮아, 배틀러.`
+` 별로 흔들리지 않으니까.」`
+`「우시로미야 배틀러 님.」`
+`「혀, 형, 별로가 어느 정돈 거야?!`
+` 배에서는 떨어져도 헤엄칠 수 있으니 괜찮지만, 비행기는 떨어지면 그걸로 끝이라구〜?!`
+` 물론 객석에 낙하산은 있겠지?`
+` 어, 없다구?!」`
+`「우시로미야 루돌프 님.」`
+`「어이 배틀러, 감동은 그만 끝내고 빨리 안에 들어가.」`
+`「아프다고 아버지!`
+` 밀지 말라니까!`
+` 낙하산이 없다잖아!」`
+`「우시로미야 키리에 씨.」`
+`「이보세요, 사이좋게 장난 그만 하고.`
+` 갑시다 갑시다.」`
+`아파 키리에!`
+` 밀지 말라니까!`
+` 이 얼간이가 앞으로 안 가잖아!」`
+`「우시로미야 마리아 님.」`
+`「우─!`
+` 갑시다 갑시다!」`
+`「우시로미야 로자 님.」`
+`「마리아!`
+` 조용히 해야지...」`
+`「기장 카와바타입니다.`
+` 오늘도 저희 신도쿄항공 201편을 이용해 주셔서 진심으로 감사드립니다.`
+` 니지마 공항까지는 약 20분의 비행이 예정되어 있습니다.`
+` 상공 기류가 좋지 않다는 보고가 들어와 있습니다.`
+` 다소 흔들림이 있을 수 있으므로 이륙 후에도 안전벨트를 풀지 않도록 부탁드립니다.」`
+`「혀, 형, 안전벨트를 풀면 안 된다니 대체 얼마나 흔들리는 거야?!`
+` 점보기라면 이륙 후엔 안전벨트 풀 수 있잖아?!`
+` 그걸 풀면 안 된다니 얼마나 흔들리는 거야?!`
+`젠장 속았어, 안 흔들리긴 뭐가 안 흔들려!`
+` 낙하산은 어딨어?!`
+` 역시 난 배가 좋았어어어어어어〜!!」`
