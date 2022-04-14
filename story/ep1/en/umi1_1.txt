@@ -1,79 +1,79 @@
-`".........Should've taken the boat...`
-`......the boat......"`
-`"Gonna faaalll!`
-` Gonna faaalll!`
-` Uu‐uu‐uu‐uu!!"`
-`"Maria, that's enough!"`
-`"......But what a surprise.`
-` I thought there was nothing that could scare Battler‐kun."`
-`"This guy can't handle vehicles for some reason.`
-` Always yells about falling and sinking and stuff.`
-` You're a disgrace of a man, you are."`
-`"......Urgh, shut up.`
-` That thing was seriously shaking way too much...`
-` I just got a little stressed, since it was my first time on a small plane like that..."`
-`"You call that "a little stressed"?`
-` Heheheh, sounds like it'd be fun to take an overseas vacation with you, Battler‐kun.`
-` Would you like to go to Egypt with your aunt?`
-` You'd get to ride a plane for a full 14 hours!"`
-`"Ahhahaha!`
-` There's a good plan.`
-` Battler‐kun, you should go let Eva nee‐san toughen you up some.`
-` But boy were you hilarious!`
-` Ahhahahaha!"`
-`"Wahhahaha, now, now. Everyone's got their own strong and weak points.`
-` It's bad to laugh at 'em.`
-` Wahhahaha...!"`
-`"D‐Dad, you're laughing too.`
-` Hey, Maria‐chan, you shouldn't laugh anymore."`
-`"Shouldn't laugh anymore?`
-` Uu!"`
-`Gyah, dammit!`
-` Is being scared of planes really such a big deal?`
-`{n}Everyone obviously thinks I'm a big oaf now...`
-` Tch!`
-`We split up and took separate taxis from the airport to the harbor.`
-`{n}From there on, we would be taking a boat to the island.`
-`The islands are right next to each other, so it's not that far.`
-`{n}It would be a leisurely thirty minutes by boat.`
-`As we arrived at the pier where the boat to the island was anchored, we saw a silhouette waving its hand.`
-`"George nii‐saaan!`
-` It's been so frickin' long!!"`
-`"Ah, Jessica‐chan, it's been a year since I saw you!`
-` You've gotten taller again, haven't you?"`
-`"Kyahaha, don't gimme that, it's embarrassing hearing that every year!"`
-`"......H‐hey, Aniki, you've gotta be kidding me.`
-` That's really Jessica?!"`
-`"Wait a sec, George nii‐san...`
-` This massive beast...`
-`is Battler?!"`
-`We both stared each other down.`
-`...She definitely didn't look this grown‐up in my memories, but I do remember her {c:86EF9C:crazy way of talking}.`
-`"Yo, Jessica!`
-` What's this now!`
-` You're kidding me, you look like a woman now!`
-` What're these, boobs? Even you managed to get a chest!`
-` Ihihi, let me rub 'em, let me~!"`
-`"Hey, screw you, I'm a blushing flower of 18!`
-` Just like hair grows out, so'll other stuff!`
-` You think I got boobs just so you can go and rub 'em, loser?!`
-` And what about you, got anything to back up that ridiculous size?!`
-` Did you remember to grow any actual muscle?!"`
-`"You'd better believe it, I'll show you how much training I've piled up since back then!!"`
-`"Oh, cram it!!`
-` I'll beat you at your own game!"`
-`This headstrong girl's name is Ushiromiya {p:0:朱志香}.`
-`......She was born under the same unlucky star as me, sharing the same kind of weird name.`
-` You see, {p:0:朱志香} is pronounced "Jessica".`
-`She's Dad's older brother's daughter.`
-`That older brother happens to be the eldest son of the Ushiromiya family, so I guess that also technically makes Jessica a direct heir to the Ushiromiya family.`
-`Since Jessica and I are the same age and had that type of boy‐girl rivalry between us,`
-` we've always been used to fighting and joking around together whenever the relatives gathered.`
-`Jessica grew more quickly, so she always had me beat in terms of size and physical strength.`
-`So, when we scuffled as a contest of strength like this, it usually went Jessica's way.`
-`So even though I clearly understand that I'm bigger now, I still feel like I can't win against Jessica with my strength.`
-`"Hnng! Ghhh......!!"`
-`"............Woh...ah...!`
+`「.........역시 배가 나았어..,`
+`......배가......」`
+`「떨어진다-!`
+` 떨어진다-!`
+` 우-우-우-우-!!」`
+`「마리아, 이제 적당히 하렴!」`
+`「......하지만 의외인걸.`
+` 배틀러는 무서울 것 하나 없을 줄 알았는데.」`
+`「이 자식은 옛날부터 어째선지 탈것을 무서워 해서 말야.`
+` 입만 벌리면 떨어진다, 가라앉는다 하질 않나.`
+` 사내놈이 그게 뭐냐, 너는.」`
+`「......시끄러.`
+` 아무리 그래도 저건 너무 흔들리잖아...`
+` 소형기를 타는 건 처음이라 조금 정신이 없었던 것뿐이라구.」`
+`「그 난리를 피워 놓고 조금이라구?`
+` 우후후후, 배틀러랑은 해외여행 같이 가면 재밌을 것 같은데.`
+` 고모하고 이집트라도 가 볼래?`
+` 14시간이나 비행기에 탈 수 있다구.」`
+`「아하하하!`
+` 좋은 제안이네요.`
+` 배틀러 군, 고모한테 좀 단련받도록 해.`
+` 그나저나 정말 웃겨!`
+` 아하하하하!`
+`「와하하하, 보소, 사람은 누구나 잘 하는 거도 몬 하는 거도 있는 기라.`
+` 그래 웃으면 미안하제.`
+` 와하하하하...!」`
+`「아, 아버지도 웃으시면 안 되죠.`
+` 마리아, 너도 이제 웃으면 안 돼.」`
+`「이제 웃으면 안 돼?`
+` 우─!」`
+`젠장 젠장!`
+` 비행기 잘 못 타는 게 그렇게 잘못이냐.`
+`{n}모두들 나를 멀대 같은 놈으로 생각할 게 뻔해...`
+` 쳇!`
+`공항에서부터는 택시에 나뉘어 타고서, 우리는 항구에 도착했다.`
+`{n}여기서부터 배로 섬까지 향하는 거다.`
+`바로 근처 섬이니까 먼 거리는 아니다.`
+`{n}배로 느긋하게 30분 정도 걸린다.`
+`섬으로 향하는 배가 정박해 있는 부두에 가니 손을 흔들고 있는 누군가의 모습이 보였다.`
+`「조지 오빠!`
+` 오랜만이구만!!」`
+`「아, 제시카, 1년 만이네!`
+` 키, 또 자란 거 아니니?」`
+`「꺄하하, 그만둬, 매년 듣는 건 부끄러우니까!」`
+`「......저, 저기 형, 거짓말이지?`
+` 이 녀석이 정말로 제시카란 말야?!」`
+`「그렇다는 건 조지 오빠...`
+` 이 덩치 큰 놈이,`
+`...배틀러라구?!」`
+`서로가 말똥말똥 상대를 관찰한다.`
+`...내 기억 속에 이런 누님의 모습은 없지만, 이 {c:86EF9C:거친 말투}는 분명하게 남아 있다.`
+`「여, 제시카!`
+` 뭐야 너!`
+` 거짓말이지, 무슨 여자 같은 꼴을 하고 있냐!`
+` 이건 뭐야 가슴이냐, 너한테도 가슴 같은 게 다 나오냐!`
+` 잇히히, 만지게 해줘, 만지게 해줘!」`
+`「까불고 있네, 이래봬도 꽃다운 18세니까!`
+` 머리도 놔두면 길듯이 나올 덴 저절로 나온다구!`
+` 너 같은 놈한테 만지게 할 가슴이 있을 것 같냐!`
+` 배틀러야말로 뭐야, 바보같이 덩치만 커져 갖고!!`
+` 힘은 좀 쓰냐?!」`
+`「까불지 마, 그 이후로 얼마나 단련했는지 뼈저리게 깨닫게 해 주지!!」`
+`"짜증난다구!!`
+` 되받아 쳐주마!"`
+`이 건방진 녀석은 우시로미야 제시카.`
+`......나와 마찬가지로 불행의 별 아래서 태어나 묘한 이름이 붙여진 가련한 동료다..`
+` 아무튼, 朱志香이라 쓰고 “제시카”라 읽는다.`
+`제시카는 우리 아버지의 형의 딸에 해당한다.`
+`그 형이란 사람이 우시로미야 가의 장남이기 때문에, 일단 제시카는 우시로미야 가의 직계 후계자가 되는 셈이다.`
+`제시카와는 동갑이라는 것도 있고, 또 남자애와 여자애 사이의 으르렁거림 같은 것도 있고 해서,`
+` 옛날부터 친척들이 모일 때면 다투거나 장난치는 사이였다.`
+`제시카 쪽이 성장이 빨랐던 것도 있어 체격이나 완력은 항상 밀렸었지.`
+`그러다 보니 이런 식으로 맞붙어 힘겨루기가 되면 대개는 제시카의 페이스였다.`
+`그러니 이렇게 내 쪽이 몸집이 커졌다는 걸 확실히 알아도, 아직 완력으론 제시카에게 못 당할 것 같은 착각을 하게 된다.`
+`"흠! 그으으으......!!"`
+`"............우오...오...!`
 ` What the...what're you...getting all serious for...?!`
 ` Owowow..."`
 `"Hey hey hey, this is nothin'!`
