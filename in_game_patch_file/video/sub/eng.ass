@@ -9,13 +9,13 @@ PlayResX: 1920
 PlayResY: 1080
 
 [Aegisub Project Garbage]
-Video File: onscripter-ru_win_r3567/video/1080p/op.mp4
+Video File: video/1080p/op.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 5
-Active Line: 11
-Video Position: 70
+Scroll Position: 15
+Active Line: 19
+Video Position: 3055
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -23,15 +23,32 @@ Style: Default,Tahoma,50,&H00FFFFFF,&HF0000000,&H00000000,&HFF270EA8,-1,0,0,0,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:21.82,0:00:25.62,Default,NTP,0,0,0,,{\pos(1780,1070)}주관에 사로잡힌{\2c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&}
-Dialogue: 0,0:00:25.62,0:00:29.06,Default,NTP,0,0,0,,{\pos(1785.333,1070)}불가사의한 광기
-Dialogue: 0,0:00:29.06,0:00:32.42,Default,NTP,0,0,0,,{\pos(1664,1070)}내게 말을 거는 비문의 목소리
-Dialogue: 0,0:00:32.42,0:00:35.72,Default,NTP,0,0,0,,{\pos(1798.667,1070)}아름다운 나비
-Dialogue: 0,0:00:36.14,0:00:39.58,Default,NTP,0,0,0,,{\pos(1676,1070)}막다른 길목이 제시하는 것을
-Dialogue: 0,0:00:39.60,0:00:42.90,Default,NTP,0,0,0,,{\pos(1625.334,1070)}알고있으면서도 다음번  깜빡임으로
-Dialogue: 0,0:00:42.91,0:00:48.99,Default,NTP,0,0,0,,{\pos(1688,1070)}당신의 미소가 일그러져가네
-Dialogue: 0,0:00:49.25,0:00:52.93,Default,NTP,0,0,0,,{\pos(1741.333,1070)}하늘로 곧장 솓아오른
-Dialogue: 0,0:00:52.93,0:00:56.79,Default,NTP,0,0,0,,{\pos(1656,1070)}눈에 보이지않는 무수한 오브들
-Dialogue: 0,0:00:56.79,0:00:59.82,Default,NTP,0,0,0,,{\pos(1688,1070)}고귀한 플라메에게 이어지는
-Dialogue: 0,0:00:59.82,0:01:03.38,Default,NTP,0,0,0,,{\pos(1736,1070)}그 혈맥, 죽음의 상징
-Dialogue: 0,0:01:03.38,0:01:10.14,Default,NTP,0,0,0,,{\pos(1664,1070)}꼭두각시를 조종하는건 누구?
+Dialogue: 0,0:00:17.90,0:00:21.20,Default,,0,0,0,,{\fs60\fad(1500,500)\move(741.332,730.667,932.001,731.001,17,2000)}마녀와 추리의 윤무곡
+Dialogue: 0,0:00:17.00,0:00:21.40,Default,,0,0,0,,{\fs100\fad(1000,500)\move(391.999,432,458.667,637.667,17,2700)}괭
+Dialogue: 0,0:00:17.00,0:00:21.40,Default,,0,0,0,,{\fs100\fad(1000,500)\move(719.998,765.333,634.667,651,17,2800)}이
+Dialogue: 0,0:00:17.00,0:00:21.40,Default,,0,0,0,,{\fs100\fad(1000,500)\move(570.664,480,757.334,632.334,17,2700)}갈
+Dialogue: 0,0:00:17.00,0:00:21.40,Default,,0,0,0,,{\fs100\fad(1000,500)\move(919.997,498.666,896,640.334,17,2700)}매
+Dialogue: 0,0:00:17.00,0:00:21.40,Default,,0,0,0,,{\fs100\fad(1000,500)\move(1042.664,389.333,1026.667,635.001,17,2700)}기
+Dialogue: 0,0:00:17.00,0:00:21.40,Default,,0,0,0,,{\fs100\fad(1000,500)\move(1354.664,786.666,1242.667,653.668,17,2700)}적
+Dialogue: 0,0:00:17.00,0:00:21.40,Default,,0,0,0,,{\fs100\fad(1000,500)\move(1565.33,589.333,1373.333,720.335,17,2700)}에
+Dialogue: 0,0:00:17.00,0:00:21.40,Default,,0,0,0,,{\fs100\fad(1000,500)\c&H0000FF&\move(986.664,405.333,1162.667,605.668,17,2700)}울
+Dialogue: 0,0:00:21.82,0:00:25.62,Default,NTP,0,0,0,,{\pos(1000,1000)}주관에 사로잡힌{\2c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&}
+Dialogue: 0,0:00:25.62,0:00:29.06,Default,NTP,0,0,0,,{\pos(1000,1000)}불가사의한 광기
+Dialogue: 0,0:00:29.06,0:00:32.42,Default,NTP,0,0,0,,{\pos(1000,1000)}내게 말을 거는 비문의 목소리
+Dialogue: 0,0:00:32.42,0:00:35.72,Default,NTP,0,0,0,,{\pos(1000,1000)}아름다운 나비
+Dialogue: 0,0:00:36.14,0:00:39.58,Default,NTP,0,0,0,,{\pos(1000,1000)}막다른 길목이 제시하는 것을
+Dialogue: 0,0:00:39.60,0:00:42.90,Default,NTP,0,0,0,,{\pos(1000,1000)}알고있으면서도 다음번 깜빡임으로
+Dialogue: 0,0:00:42.91,0:00:48.99,Default,NTP,0,0,0,,{\pos(1000,1000)}당신의 미소가 일그러져가네
+Dialogue: 0,0:00:49.25,0:00:52.93,Default,NTP,0,0,0,,{\pos(1000,1000)}하늘로 곧장 솓아오른
+Dialogue: 0,0:00:52.93,0:00:56.79,Default,NTP,0,0,0,,{\pos(1000,1000)}눈에 보이지않는 무수한 오브들
+Dialogue: 0,0:00:56.79,0:00:59.82,Default,NTP,0,0,0,,{\pos(1000,1000)}고귀한 플라메에게 이어지는
+Dialogue: 0,0:00:59.82,0:01:03.38,Default,NTP,0,0,0,,{\pos(1000,1000)}그 혈맥, 죽음의 상징
+Dialogue: 0,0:01:38.00,0:01:41.00,Default,,0,0,0,,{\fs100\fad(1000,500)\move(391.999,432,458.667,637.667,17,2000)}괭
+Dialogue: 0,0:01:38.00,0:01:41.00,Default,,0,0,0,,{\fs100\fad(1000,500)\move(719.998,765.333,634.667,651,17,2000)}이
+Dialogue: 0,0:01:38.00,0:01:41.00,Default,,0,0,0,,{\fs100\fad(1000,500)\move(570.664,480,757.334,632.334,17,2000)}갈
+Dialogue: 0,0:01:38.00,0:01:41.00,Default,,0,0,0,,{\fs100\fad(1000,500)\move(919.997,498.666,896,640.334,17,2000)}매
+Dialogue: 0,0:01:38.00,0:01:41.00,Default,,0,0,0,,{\fs100\fad(1000,500)\move(1042.664,389.333,1026.667,635.001,17,2000)}기
+Dialogue: 0,0:01:38.00,0:01:41.00,Default,,0,0,0,,{\fs100\fad(1000,500)\move(1354.664,786.666,1242.667,653.668,17,2000)}적
+Dialogue: 0,0:01:38.00,0:01:41.00,Default,,0,0,0,,{\fs100\fad(1000,500)\move(1565.33,589.333,1373.333,720.335,17,2000)}에
+Dialogue: 0,0:01:38.00,0:01:41.00,Default,,0,0,0,,{\fs100\fad(1000,500)\c&H0000FF&\move(986.664,405.333,1162.667,605.668,17,2000)}울
+Dialogue: 0,0:01:03.38,0:01:10.14,Default,NTP,0,0,0,,{\pos(1000,1000)}꼭두각시를 조종하는건 누구?
