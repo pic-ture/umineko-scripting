@@ -221,20 +221,20 @@
 `That stuffed animal, the only one of its kind in the world, was torn apart and thrown away,`
 ` and not a thread remained.`
 `Reviving it is an absolutely certain impossibility......!!`
-`{p:1:This is my Golden Land}...!`
-`{p:1:A world where magic that isn't mine certainly cannot exist}!!!`
-`"G‐`
-`......go right ahead,`
-` ......I defy you to do it, Ushiromiya Angeeeee{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}eee!!!"`
-`At Beato's scream, the world lost its sound.`
-`I slowly...recited the incantation...for true magic......`
-`"...............Come, try to remember.`
-` Maria's close friend Sakutarou."`
-`".........Try to remember what form you had."`
-`".........Try to remember what a lovable stuffed animal you were."`
-`"Huh, ..................ah, ...ah........."`
-`"....................................!"`
-`......Expressions of shock rose to both of their faces.`
+`{p:1:여기는 첩의 황금향}...!`
+`{p:1:첩 이외의 마법은 절대로 존재할 수 없는 세계}!!!`
+`「하, `
+`......할 수 있다면,`
+` ......해보거라아아아아앗, 우시로미야 엔제{-}에{-}에{-}에{-}에{-}에{-}에{-}에{-}에{-}엣!!!」`
+`베아트의 비명과 같은 외침에 세계는 정적에 휩싸인다.`
+`나는 천천히 진정한 마법의 주문을 외운다......`
+`「...............자아 떠올려 보세요.`
+` 마리아의 가장 친한 친구 사쿠타로우.」`
+`「.........당신이 어떤 모습을 하고 있었는지 떠올려 보세요.」`
+`「.........당신이 얼마나 귀여운 인형이었는가를 떠올려 보세요.」`
+`「에, ..................아, ...아.........」`
+`「....................................큿.」`
+`......두 사람의 얼굴에 경악의 빛이 감돈다.`
 `Then, ......pushing Beato's elbow aside, Maria dashed forward......`
 `".........kutaro.........`
 ` .........Sakutarooo.........!!"`
@@ -293,40 +293,40 @@
 `......completely impossible.........!"`
 `"What are you so flustered about, {f:5:Beatrice}?`
 ` ..................This is...magic, right?"`
-`"It cannot possibly be magic...!!`
-` {p:1:This is my Golden Land}!!`
-` {p:1:A world where magic that isn't mine certainly cannot exist}!!`
-` And my`
-` {p:1:magic was not able to revive Sakutarou}...!!"`
-`"There's no way it could!!`
-` {p:1:That stuffed animal was a special stuffed animal}!`
-` {p:1:Rosa made it for her daughter's birthday, and in the entire world, only one of its kind}—`
-`.........—`
-`...............u...`
-`...............hh......"`
-`".....................See,`
-` ...it's magic, right?"`
-`"Ah...`
-`......oh......`
-`......ahh...`
-`.........aaahhh,`
-` .........aah...h...hh...hhhh......"`
-`With this miracle that she could not possibly accept,`
-` .........Beato...understood all of my magic......`
-`And she looked at Maria and Sakutarou innocently frolicking around,`
-` ......looked at me,`
-` .........and then...`
-`......fell to her knees,`
-` ......with even her hands pressed to the ground,`
-` ...............and cried.`
-`"{f:5:Beatrice}...! This is really magic, right...?!`
-` It's magic, right?!`
-` {f:5:Beatrice}...!!!"`
-`"...............Mm.........`
-` ......It is magic......`
-` ......That is...`
-`......true...`
-`......magic........."`
+`「It cannot possibly be magic...!!`
+` {p:1:여기는 첩의 황금향}!!`
+` {p:1:첩 이외의 마법은 절대로 존재할 수 없는 세계}!!`
+` 그리고 첩의`
+` {p:1:마법으로 사쿠타로우를 되살리는 건 할 수 없었도다}...!!」`
+`「가능할 리가 없는 것이다!!`
+` {p:1:그 인형은 특별한 인형}!`
+` {p:1:로자가 딸의 생일 때문에 만든, 세계 단 하나의}—`
+`.........아`
+`...............으...`
+`...............아......」`
+`「.....................그치.`
+` ...마법이지?」`
+`「우,`
+`......오......,`
+`......아....`
+`.........아아아...`
+` .........아...아아아아앗......」`
+`베아트는 도저히 받아들일 수 없는 기적을 보고,`
+` .........내 마법의 모든 것을 이해한다......`
+`그리고 천진난만하게 사쿠타로우와 어울려 노는 마리아를 보더니,`
+` ......나를 보고,`
+` .........그리고,`
+`......무릎을 꿇어,`
+` ......양손으로 땅을 짚고,`
+` ...............울었다.`
+`「베아트리체...! 이게 진정한 마법이지...?!`
+` 마법이지?!`
+` 베아트리체...!!!」`
+`「...............응.........`
+` ......마법이니라......`
+` ......그것이야말로...`
+`......진정한,`
+`.....마법이니라.........」`
 `"How can Ange use a magic that even Beato can't do?!`
 ` How?!`
 ` How?!`

@@ -467,30 +467,30 @@
 ` You should thank me, *cackle*!"`
 `"You said they entered through the door, and I denied it, saying that couldn't happen.`
 ` ......Are you saying that's an evasive answer?"`
-`"That's right.`
-` So from now on,`
-` {p:1:when I speak the truth, I will use red}."`
-`"Wh‐what is this......?!`
-` Keep explaining!"`
-`"No matter what magic move I use,`
-` you can always keep running away by repeating "lack of information" and "denying the basis"."`
-`"...Even though I would still win in the end that way, it would be extremely boring.`
-` ......Because of that, I think I'll give you that "information" and "basis" that you desire."`
-`"However, you would probably doubt each word I say.`
-` That isn't bad in itself.`
-` I also will use every possible move to make you submit.`
-` I don't dislike our posture of searching out the best moves against each other."`
-`"......But that won't make a game.`
-` So I set up this rule."`
-`"`
-`{p:1:Everything I speak in red is the truth}!`
-` There's absolutely no need to doubt it!"`
-`"Are you telling me to believe that...?!"`
-`"This is a game between you and me.`
-` In a game, the rules are sacred!!`
-` Those who take them lightly are not qualified to play!!"`
-`"Alright, I got it, I'll accept that rule!!`
-` Even an elementary school kid can get into an endless argument and find fault with everything."`
+`「그렇다.`
+` 그러니까 첩은 이제부터,`
+` {p:1:진실을 이야기할 때 빨강을 사용하기로 하겠다}.」`
+`「무, 무슨 일이야......?!`
+` 설명해!」`
+`「첩이 마법을 이용한 어떤 수를 두더라도,`
+` 그대는 항상 “정보 부족”이나 “근거 부족”을 반복하는 것으로 계속 도망칠 수 있지.」`
+`「...이래서야 최종적으로 첩이 이기는 것이 변하지 않는다고 해도 너무나 심히 지루하도다.`
+` ......그 때문에 첩은 그대가 바라는 “정보”와 “근거”를 주려고 생각했지.」`
+`「하지만, 그대는 첩의 말 하나하나를 의심하지.`
+` 그것 자체는 나쁘지 않다고 생각한다.`
+` 왜냐하면 첩도 그대를 굴복시키기 위해 모든 수를 보이기 때문이지.`
+` 서로 가장 좋은 한 수를 찾는 그 기세는 싫어하지 않도다.」`
+`「......하지만 그래서야 게임이 되지 않는도다.`
+` 그래서 이 룰을 신설했지.」`
+`「`
+`{p:1:첩이 빨강으로 이야기하는 것은 전부 진실}!`
+` 의심할 필요는 전혀 없는 것이다!」`
+`「그 말을 믿으라는 거냐...?!」`
+`「첩은 그대와 게임을 하고 있다.`
+` 게임의 룰은 신성!!`
+` 그것을 경시하는 자에게 참가할 자격은 없는 것이다!!」`
+`「좋아, 알겠다고, 받아들이겠어 그 룰!!`
+` 결말이 나지 않는 논쟁이랑 태클 거는 건 초등학생도 할 수 있다고.」`
 `"Then let's restart right now, and continue where we left off.`
 ` I'll repeat it again.`
 ` "Dad and the rest entered the chapel using a hidden door, or were carried in through one"!"`

@@ -1829,47 +1829,47 @@
 `"Beato, stay back...!!`
 ` I'll take it!`
 ` Bring it on, you fake witch!!"`
-`"`
-`{p:1:After Jessica was injured,}`
-` {p:1:Eva was constantly under Battler's supervision}.`
-` {p:1:Battler is neither the culprit nor an accomplice}.`
-` {p:1:By this, we can establish a perfect alibi for Eva}."`
-`"Wh‐......whaat...............?"`
-`"I'll seal you,`
-` and {y:0:Human}{n:0:human}s as well,`
-` ......in a red barrier of death that most certainly cannot be escaped from.`
-` Farewell, lowly {y:0:Human}{n:0:human}s.`
-` Sleep for all eternity in an absolute locked room of magic with no exits.`
-` ......Now, prepare yourself.`
-` For the red truth."`
-`{p:1:There are no more than 18 humans on this island}.`
-`Throw away your foolish thoughts of mysterious people hiding and committing crimes.`
-`...But if I say it this way, you could also suspect animal culprits.`
-` It would be unbearable to hear an irrational theory about how an orangutan trained to commit murder wouldn't count as a human.`
-`So, I'll change it like this.`
-`{p:1:No life forms other than humans have any connection to this game}.`
-`So, with that covered,`
-` next, I'll explain the situation for all 18 people who exist on this island.`
-`{p:1:Kinzo is dead}.`
-` {p:1:Krauss is dead}.`
-`{p:1:Natsuhi is dead}.`
-` {p:1:Hideyoshi is dead}.`
-`{p:1:George is dead}.`
-` {p:1:Rudolf is dead}.`
-`{p:1:Kyrie is dead}.`
-` {p:1:Rosa is dead}.`
-`{p:1:Maria is dead}.`
-` {p:1:Genji is dead}.`
-`{p:1:Shannon is dead}.`
-` {p:1:Kanon is dead}.`
-`{p:1:Gohda is dead}.`
-` {p:1:Kumasawa is dead}.`
-`{p:1:Nanjo is dead}.`
-`Those 15 are all dead.`
-`And.`
-`{p:1:Battler is alive}.`
-`{p:1:Eva is alive}.`
-`{p:1:Jessica is alive}.`
+`「`
+`{p:1:제시카가 부상당한 후,}`
+` {p:1:에바는 언제나 배틀러의 감시 아래 있었다}.`
+` {p:1:배틀러는 범인도 공범도 아니다}.`
+` {p:1:따라서, 에바의 완전한 알리바이를 증명할 수 있다}.」`
+`「뭐,......뭐라고...............?」`
+`「너를.`
+` ＜인간＞을.`
+` ......절대로 도망칠 수 없는 붉은 결계로 봉인해서 죽이겠어.`
+` 안녕이다 ＜인간＞들아.`
+` 출구 없는 절대의 마법 밀실에서 영원히 잠들려무나.`
+` ......자, 정신차리고 듣거라.`
+` 붉은 진실을.」`
+`{p:1:이 섬에는 19명 이상의 인간은 없다}.`
+`수수께끼의 괴인이 숨어서 범행을 저질렀다는 어리석은 생각은 버려라.`
+`...하지만 이렇게 말하면, 동물이 범인이라고 의심할 수도 있겠어.`
+` 살인을 배운 오랑우탄은 인간 숫자에 카운트 되지 않는다는 핑계를 대면 이길 수 없지.`
+`그러면 이렇게 바꿔 말하겠어.`
+`{p:1:인간 이외의 생명은 일절, 이 게임과 관계가 없다}.`
+`자,`
+` 다음으로, 이 섬에 존재하는 18인의 상황을 모두 설명하겠어.`
+`{p:1:킨조는 사망했다}.`
+` {p:1:크라우스는 사망했다}.`
+`{p:1:나츠히는 사망했다}.`
+` {p:1:히데요시는 사망했다}.`
+`{p:1:조지는 사망했다}.`
+` {p:1:루돌프는 사망했다}.`
+`{p:1:키리에는 사망했다}.`
+` {p:1:로자는 사망했다}.`
+`{p:1:마리아는 사망했다}.`
+` {p:1:겐지는 사망했다}.`
+`{p:1:샤논은 사망했다}.`
+` {p:1:카논은 사망했다}.`
+`{p:1:고다는 사망했다}.`
+` {p:1:쿠마사와는 사망했다}.`
+`{p:1:난죠는 사망했다}.`
+`이상, 15인은 사망`
+`이어서.`
+`{p:1:배틀러는 생존해 있다}.`
+`{p:1:에바는 생존해 있다}.`
+`{p:1:제시카는 생존해 있다}.`
 `That's everyone, all 18 of them!`
 `"So you understand that, accordingly, when the last victim, Nanjo, died,`
 ` only three people, Battler, Eva, and Jessica, were alive, right?"`

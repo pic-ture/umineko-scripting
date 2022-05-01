@@ -1038,33 +1038,33 @@
 `At the same time, they both brandished their mysteries, sealing the other in a chained locked room.`
 `"Come, Furudo Erikaa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}aaa!!!"`
 `"Entertain me, Bwattleer‐shwa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}aann{-}n{-}n{-}nn!!!"`
-`At the same time, they were both sealed inside a locked room locked with a chain.`
-`Of course, it was easy to set and unset the chain from the inside.`
-`However, stepping into their opponent's chained room would be difficult.`
-`They were fighting to the death with two chain locked rooms at once.`
-`There could be no better locked‐room duel for this pair, who had battled with theories concerning chained rooms so often.`
-`"{p:2:Furudo Erika committed suicide, died in an accident, died of illness, died by some reason other than homicide}!!"`
-`"{p:1:It wasn't a suicide, it wasn't an accidental death, it wasn't a death by illness! I really was killed by you, Battler‐san}!!!"`
-`"{p:2:It was a murder committed by slipping poison gas through the crack of the door, by filling the room with water and drowning you, by sucking the oxygen out of the room and making you suffocate}!!"`
-`"{p:1:There was no poison gas, there was no drowning, there was no death by suffocation}!!"`
-`"Hahahaha, ahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!!`
-` A locked room murder with poison gas? Death by drowning? Suffocation?!`
-` *giggle*giggle*, aha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!!"`
-`"Crazy, right? It's funny, isn't it?"`
-`"<Good>!!`
-` {p:2:Ushiromiya Battler committed suicide, he died in an accident, he died by illness}!!`
-` Time for me to test your locked room!"`
-`"Red truth!!`
-` {p:1:Ushiromiya Battler was stabbed to death!!`
-` Let's say the weapon was a knife, stuck right into his back}!!"`
-`"<Good>!!`
-` Nothing beats a classic locked room!!"`
-`"Then why don't you try it too?!"`
-`"I'll take that challenge with the red truth!!`
-` {p:1:Furudo Erika was stabbed to death!`
-` The weapon was a knife, stuck right in her back}!!"`
-`"Interesting!!`
-` I'll tear your locked room to bii{-}i{-}i{-}i{-}i{-}i{-}i{-}its!!"`
+`두 사람은 동시에 체인으로 잠긴 밀실에 갇힌다.`
+`물론 안에서 체인을 풀고 잠그는 일은 간단하다.`
+`그러나 상대의 체인 밀실에 발들이기는 어려운 일이다.`
+`둘은 서로 동시에 상대를 체인 밀실에서 죽일 것이다.`
+`체인 밀실에서 추리로 싸우는 두 사람에게 더할 나위 없이 좋은 결투의 밀실이다.`
+`「{p:2:후루도 에리카는 자살이다.  사고사다.  병사했다.  타살 이외의 모든 이유에 의해 사망했다}!!」`
+`「{p:1:자살이 아닙니다.  사고사가 아닙니다.  병사하지 않았습니다.  분명 저는 당신에게 살해당했습니다, 배틀러 씨}!!!」`
+`「{p:2:문틈에서 독가스를 흘려서 살해했다.  방에 물을 부어 익사했다.  방의 공기를 없애서 질식사시켰다}!!」`
+`「{p:1:독가스가 아닙니다.  익사하지 않았습니다.  질식사도 아닙니다}!!」`
+`「하하하하, 앗{0}하{0}하{0}하{0}하{0}하{0}하{0}하{0}하하!!`
+` 밀실 살인에 독가스?  익사?  질식사?!`
+` 큭큭큭큭아{0}하{0}하{0}하{0}하{0}하{0}하{0}하{0}하하!!」`
+`「불쌍해보여?  재밌어?」`
+`「굿!!`
+` {p:2:우시로미야 배틀러는 자살이다, 사고사다, 병사했다}!!`
+` 이번에는 당신의 밀실을 시험하겠습니다!!」`
+`「붉은 진실!!`
+` {p:1:우시로미야 배틀러는 찔려 죽었다!!`
+` 흉기는 나이프, 등에 푸슉하고, 어떠냐}?!」`
+`「굿!!`
+` 고전 밀실은 그래야죠!!」`
+`「그럼 너도 해볼래?!」`
+`「받아드리죠, 붉은 진실!!`
+` {p:1:후루도 에리카는 찔려 죽었다!`
+` 흉기는 나이프, 등에 푸슉하고}!!」`
+`「재밌어!!`
+` 너의 밀실, 부서버리겠{-}어{-}어{-}어{-}어{-}어{-}어{-}어!!"`
 `".........What's this supposed to be?"`
 `"Battler is busy at the moment with other business.`
 ` For now, I shall be your opponent."`

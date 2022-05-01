@@ -1583,26 +1583,26 @@
 `"Ahhah, so you have to flirt right in front of me!!`
 ` This was starting to piss me off anyway.`
 ` ......A teary farewell scene is definitely not for me."`
-`......If you ask me, a villain's gotta wear this face to their very last moments!!`
-`"......That's a nice look.`
-` ......Married life with you would probably have been fun enough to make me vomit."`
-`"Of course.`
-` I would have locked you in a world of such constant back‐arching pleasure...`
-`that it would have taken Beato‐san completely off your mind."`
-`"Haha.`
-` It's a thousand years too early for you to capture Battler's heart, little girl."`
-`"Yes, that one's your cutest look by far.`
-` ......This is really the way for both of us to finish things!!"`
-`".........Come."`
-`"This is the final parting line from the detective, Furudo Erika,`
-` and my self‐introduction!!"`
-`Erika spun around in a magnificent and graceful rondo,`
-` scattering blood and golden petals around her as she raised her gun.`
-`"{p:1:Hello and good day!`
-` Detective Furudo Erika at your service!!`
-` I may be uninvited, but I hope I'm not unwelcome}!!"`
-`"{p:1:I am the visitor,`
-` the 18th human on Rokkenjima}!!!"`
-`"............Sorry, but..."`
-`"{p:1:Even if you join us all—}"`
-`""{p:1:That's only 17}.""`
+`......역시, 악역은 최후의 마지막까지 이런 낯짝이어야죠!!`
+`「......좋은 얼굴이다.`
+` ......너랑 결혼했더라도, 토 나올 정도로 즐거웠을지도 모르지.」`
+`「당연하죠.`
+` 매일 엎치락뒤치락, 베아트 씨 따위 잊어버릴 정도로,`
+`쾌락의 세계에 감금시켜 버리고 싶었는데에.」`
+`「하하.`
+` 너 같은 어린 계집, 배틀러를 노예로 삼기에는 아직 천 년 이르도다.」`
+`「아아, 당신의 얼굴도 그게 제일 큐트해요.`
+` ......우리 서로, 마지막은 이런 얼굴이 좋겠죠!!」`
+`「.........와라.」`
+`「이것이, 탐정, 후루도 에리카의 최후의 대사,`
+` 그리고 자기소개입니다!!」`
+`에리카는 빙그르 론도를 돌며, 화려하고 우아하게,`
+` 피와 황금의 꽃잎을 흩날리며, 총을 겨눈다.`
+`「{p:1:안녕하세요, 처음 뵙겠습니다!`
+` 탐정, 후루도 에리카라고 합니다!!`
+` 초대받지 못한 손님입니다만, 부디 환영해주시길}!!」`
+`「{p:1:나는 내방자,`
+` 롯켄지마의 18번째 인간}!!!」`
+`「............미안하지만,」`
+`「{p:1:그대를 맞이하더라도,}」`
+`「「{p:1:17명이다}.」」`

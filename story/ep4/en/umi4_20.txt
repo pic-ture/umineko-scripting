@@ -733,9 +733,9 @@
 ` .........I lay out the following theory to demonstrate that I can apply the dead‐Kinzo hypothesis even to the fourth game!"`
 `"So be it! Come at me with all you have, my descendant!!"`
 `"Here I go, you sack of old bones!!`
-` {p:2:My theory is that Kinzo's name is passed on as the title of the Ushiromiya family head}!"`
-`"{p:2:Ushiromiya Kinzo was already dead}.`
-` {p:2:And he passed {i:his name} on to someone else}!`
+` {p:2:킨조의 이름은 우시로미야 가 당주의 칭호로서 계승되었다는 가설이다}!"`
+`"{p:2:우시로미야 킨조는 이미 죽었다.}.`
+` {p:2:그리고 “{i:그 이름}”을 누군가가 계승했다!}!`
 ` {p:2:Everyone acknowledged it}!!`
 ` {p:2:And, therefore, ‘all of those present at the family conference acknowledged the existence of Kinzo’}!!"`
 `"{p:2:There wasn't even any need for this person to disguise themselves as Grandfather}.`

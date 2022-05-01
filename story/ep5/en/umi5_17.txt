@@ -1225,7 +1225,7 @@
 ` It's impossible.`
 ` ...It can't be done...!"`
 `"......Not with red or blue, ...right......?"`
-`"{p:41:I guarantee that this is the corpse of Ushiromiya Kinzo}...!!"`
+`「{p:41:이 시체가 우시로미야 킨조의 시체라는 것을 보증한다}...!!」`
 `Then,`
 ` ...when Dlanor...`
 `...met with Battler's golden flash,`
