@@ -2928,7 +2928,7 @@ preset_define 32,1,40,#FFFFFF,0,0,0,1,8,#000000,0,0,0,#000000,2,20,1590 ;Menu mu
 
 gosub *redefine_text_presets
 
-enable_gradients 1
+;enable_gradients 1
 
 ;System commands
 pretextgosub *pretext

@@ -1521,10 +1521,10 @@
 `...and kill her......`
 `"Come on......`
 ` I'll accept......your final mystery."`
-`".........`
-`{p:1:You are all alone on this island}.`
-` {p:1:And of course, I am not you}.`
-` {p:1:Yet I am here, now, and am about to kill you}."`
+`「.........`
+`{p:1:이 섬에 남은 건 당신 한 명뿐.}`
+` {p:1:그리고 물론 나는 당신이 아닙니다.}`
+` {p:1:그런데 나는 지금, 여기에 있고 지금부터 당신을 죽입니다.}」`
 `"Like a souped‐up version of the mystery of Doctor Nanjo's murder......`
 ` .........So......?"`
 `".........Who...am I...?"`
