@@ -225,7 +225,7 @@
 ` ......It most certainly was not created to arrogantly insist on the way things must {f:5:be}."`
 `"......A crutch...for the power of thinking......"`
 `"{f:5:Yes}.`
-` Knox's 8th: It is forbidden for the case to be resolved with clues that are not {f:5:presented}.`
+` 녹스 제 8조: It is forbidden for the case to be resolved with clues that are not {f:5:presented}.`
 ` ......This does not only mean that one must avoid making baseless guesses that are not supported by {f:5:clues}."`
 `"If you turn it around,`
 ` .........it means that the one posing the mystery must present clues which lead to the solution."`
@@ -597,7 +597,7 @@
 ` I don't care about the order.`
 ` ......Give me something that seems useful."`
 `"I beg to inform you of the following.`
-` Knox's 8th:`
+` 녹스 제 8조:`
 ` It is forbidden for the case to be resolved with clues that are not presented."`
 `"I beg to inform you of the following.`
 ` Knox's 6th:`
@@ -673,60 +673,60 @@
 ` ...I might have just realized at last."`
 `It's something that has been repeated over and over again throughout the tale...`
 `...persistently so.`
-`"......Without love,`
-` ......the truth...cannot be {y:1:‘seen’}{n:1:seen}......"`
-`Slowly, the tea room dissolved into darkness......`
-`Then, as though I was slowly sinking into a pitch black sea,`
-` .........I passed through the cracks of the long journey I'd taken with Beato...`
-`......and kept on falling and falling......`
-`It was a bizarre experience......`
-`like crossing over the boundary of sleep while still conscious.`
-`The several tales that had come before became faint bubbles—no, perhaps small shining fragments—`
-`that were scattered like stars in a pitch black sky.`
-`I kept sinking on and on...`
-`...into that sea......`
-`The tales up until now...`
-`......one after another...`
-`......after another.........`
-`Vergilius guided Dante to Mount Purgatory,`
-` ......and led him to Beatrice, the eternal lady who waited at the top.`
-`Therefore,`
-` .........the innermost depths lay not at the bottom,`
-` .........but at the peak of Mount Purgatory.`
-`The eternal lady...`
-`...had been waiting there for Dante...`
-`...the whole time......`
-`{a:c:And then.........I knew.}`
-`......I finally...reached the truth.........`
-`.........In the depths, ...no,`
-` .........at the peak...of Mount Purgatory...............`
-`............Idiot............`
-`......You...`
-`......really are...`
-`...an idiot......`
-`"...Ah,`
-` ......gwah...`
-`.........that hurts........."`
-`He woke from the sleep of death,`
-` ......and bit by bit......his sense of pain came back to him......`
-`As Battler hung there pierced by the longsword, his head still tilted towards the heavens,`
-` ......life gradually returned to his face...through an expression of suffering......`
-`"You...`
-`......really are...`
-`...an idiot......`
-` ......A huge idiot........."`
-`Battler...noticed.`
-`......The whole time,`
-` .........Beato had been snuggling up against him......sleeping.`
-`And when he held her,`
-` .........he found...`
-`......that it was not Beato...`
-`......but her crumbling...`
-`...remains.`
-`And because her form was as fragile as ash,`
-` when Battler tried to hold it,`
-` .........just like a sandcastle made on a beach...`
-`...being washed away by a small wave,`
+`「......사랑이 없으면,`
+` ......진실은, {y:1:‘보이지’}{n:1:보이지} 않는다......」`
+`천천히 다실이 어둠에 물들기 시작한다......`
+`그리고 나는 칠흑의 바다 속에 천천히 가라앉는 듯이,`
+` .........베아트와 함께 반복했었던 긴 이야기의 틈을 빠져나가,`
+`......끝없이 떨어져 간다......`
+`그건 마치 의식을 가진 채로,`
+`비몽사몽간의 경계에 이르려고 하는 듯한, ......이상한 체험.`
+`지금까지의 수많은 이야기가 미세한 거품, ......아니, 작게 빛나는 조각?`
+` ...같은 것이 되어 칠흑의 우주에 별이라도 되는 듯이 흩어져 있다.`
+`나는 그 바다에서 끝없이,`
+`...그리고 천천히 가라앉는다......`
+`지금까지의 이야기가,`
+`......하나씩...하나씩...`
+`......차례대로.........`
+`베르길리우스는 단테를 연옥산으로 안내해,`
+` ......산 정상에서 기다리고 있는 영원한 숙녀, 베아트리체에게로 데려간다.`
+`그러니까,`
+` .........그 최심점은 분명, 낮은 곳이 아니라,`
+` .........연옥산의 정상.`
+`영원한 숙녀는,`
+`...거기서 단테를,`
+`...계속 기다리고 있다......`
+`{a:c:그리고, 나는....알았다......}`
+`......나는 진실에, ...마침내 도착한다.........`
+`.........심오에, ...아니,`
+` .........연옥산의 정상에...............`
+`............바보야............`
+`......넌...`
+`......정말로...`
+`...바보야......`
+`「...우,`
+` ......쿨럭...`
+`.........아파ㅡ.........」`
+`죽음의 잠에서 깨어나,`
+` ......조금씩, ......통각이 돌아온다......`
+`하늘을 올려다 본채로 붉은 검에 꿰뚫려있는 배틀러의 얼굴에,`
+` ......고통과 함께, 본래의 살아있는 표정이, 조금씩 돌아온다......`
+`「넌...`
+`......정말로,`
+`...바보야......`
+` ......엄청 바보야.........」`
+`배틀러는... 깨닫는다..`
+`......베아트가 쭉,`
+` .........자신에게 기댄체로, ......자고 있었다.`
+`그리고 그것을 껴안았을 때,`
+` .........그게 베아트가 아니라,`
+`......헛되이 죽은,`
+`......베아트의,`
+`...잔해에 지나지 않는다는 것을 깨달았다...`
+`그래서, ......재 같이 무른 그것은,`
+` ......배틀러가 껴안으려고 한 것만으로,`
+` .........마치 모래사장에서 만든 모래성이,`
+`...조그만 파도에 흽쓸려 무너지는 것처럼,`
 ` ......it fell apart and lost its form......`
 `At Battler's feet......lay nothing but the ragged remnants of Beato's dress......and a pile of ash.`
 `No, ......on top of that pile of ash......he could see something sparkling gold.`
@@ -979,79 +979,79 @@
 `"Battleeeeeeeeeeee{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}er!!!`
 ` You think you can disprove my theory?! I'd like to see you tryy{-}y{-}y{-}y{-}y{-}y{-}y{-}y{-}y{-}y{-}y{-}y{-}yyy!!"`
 `"It can't be done,`
-` it can't`
-` it can't`
-` it can't`
-` it can't`
-` it can't`
-` it can't`
-` it can't`
-` it can't`
-` it can't`
-` it can't`
-` it can't!!`
-` The theory I've created has no holes!!`
-` It's impossible to rule out Natsuhi as the culprit!!"`
-`".........`
-`{p:1:I can construct a theory with someone other than Aunt Natsuhi as the culprit}.`
-` ......It may be that your truth is impossible to disprove.`
-` ......If so, that means your truth won't be able to deny my new truth either......!"`
-`Battler spoke with the red truth allowed him by his status as a sorcerer.`
-`"A......a culprit other than Natsuhi...?!`
-` ...H‐......hah!! And how?!!`
-` Dlanor!!`
-` Please entertain Battler‐san's delusional rambling...!!"`
-`......Slowly, ......Dlanor stepped forwards.`
-`In her hand......was the red longsword of the Decalogue.`
-` She also had a blue shortsword.`
-`In Battler's hand......was the golden longsword.`
-`......The two rivals once again...`
-`......no, for the first time,`
-` ......they truly confronted each other.`
-`".........Battler, I have been {f:5:waiting}."`
-`"Sorry to keep you."`
-`"Not at {f:5:all}.`
-` Your return was sooner than I {f:5:anticipated}."`
-`"Kill him,`
-` Dlanor A. Knoooooooooooxxxx!!!"`
-`Dlanor's form disappeared in an instant.`
-`{n}As though her slow, dignified movements from before were only a lie...!`
-`......The trail drawn by the longsword of red truth burned itself into the retinas of those who saw it.`
-`Before anyone had enough time to follow that trail, ......it was already approaching Battler's chest...!`
-`"{p:2:Lady {f:5:Erika}'s reasoning has solved the fifth {f:5:game}.`
-` No new facts exist to overturn this logically derived {f:5:truth}}...!!"`
-`"{p:1:It's possible to present a different truth using a different interpretation}!!`
-` When multiple truths exist in parallel, the authenticity of both is questioned!!"`
-`In this closed‐off world, it's possible for differing truths to exist at the same time.`
-`Furthermore, as long as multiple truths exist, it's impossible to claim that any of the truths are the single truth.`
-`In other words, even if I can't overturn Erika's reasoning, by questioning its credibility...`
-`......and conquering it, I can defeat it...!`
-`"Bern's reasoning is perfect. You won't be able to overturn it easily.`
-` ......But still.`
-` If you can present a theory on par with Bern's, the fight will come down to a verdict.`
-` That means it's possible that either one of the truths will be defeated and denied!"`
-`".........This plot twist is truly laughable...!!`
-` I'd expect nothing less from a demon's script!!"`
-`"Then let me {f:5:ask}!!`
-` If not Natsuhi, who do you theorize is the {f:5:culprit}?!!"`
-`Battler's golden longsword drew both red and blue trails at will.`
-`"{p:2:It's possible to construct a theory in which this was the revenge of the baby from 19 years ago mentioned by Aunt Natsuhi in her confession}."`
-`"{p:1:Knox's 1st:`
-` It is forbidden for the culprit to be anyone not mentioned in the early part of the {f:5:story}!`
-` A person first introduced in the fifth game cannot be named as the {f:5:culprit}}...!!"`
-`"{p:2:What if the baby from 19 years ago was among us since the very beginning?`
-` For example, ......what if it was me}?!"`
-`"{p:1:Knox's 8th:`
-` It is forbidden for the case to be resolved with clues that are not {f:5:presented}}!`
-` Was there ever any foreshadowing showing that you might be the baby from 19 years {f:5:ago}?!!"`
-`"{p:1:The red truth from the fourth game that I am not the son of my mother Asumu.`
-` The feeling that Dad was hiding something in both the first game and this game.`
-` In particular, in this game, it was made clear that there were some special circumstances having to do with my birth}."`
-`Battler proposed that he might be the baby from 19 years ago,`
-` ......and announced that he would reconstruct the crime with himself as the culprit.`
-`As Dlanor cautiously held her sword at the ready, she gauged the distance between them...`
-`Now that Battler had inherited the position of this world's territory lord and even attained the rank of Endless Sorcerer,`
-` his movements surpassed {y:0:Human}{n:0:human} understanding.`
+` 불가`
+` 불가`
+` 불가`
+` 불가`
+` 불가`
+` 불가`
+` 불가`
+` 불가`
+` 불가`
+` 불가`
+` 불가!!`
+` 제가 구축한 추리에 틈이 있을리가요!!`
+` 나츠히가 범인이라는 것은 부정불능!!」`
+`「.........`
+`{p:1:나는 나츠히 백모 이외의 인간이 범인인 추리를 구축할 수 있다}.`
+` ......분명 네 진실은 부정불능일지도 몰라.`
+` ......그렇다면 마찬가지로 내 새로운 진실도 부정할 수 없어......!」`
+`배틀러는 마술사에게 허락된 붉은 진실로 그것을 단언한다.`
+`「나, ...나츠히가 아닌 다른사람이 범인...?!`
+` ...하-, ......핫!! 어떻게!!`
+` 드라노르!!`
+` 배틀러씨의 망언에 어울려 주도록 하세요...!!」`
+`.....드라노르가, ......천천히 앞으로 나온다.`
+`그 손에는 쥐어진 건, ......십계의 붉은 장검.`
+` 허리에는 푸른 단검.`
+`배틀러의 손에는, ...... 황금의 장검이 있다.`
+`......두 영웅은 다시,`
+`......아니 이번에야 말로,`
+` ......대치한다.`
+`「.........배틀러, 기다리고 있었습NIDA.」`
+`「기다리게 했지.」`
+`「NO.`
+` 당신의 귀환은 제 예상보다 빨랐습NIDA.」`
+`「죽이세요,`
+` 드라노르 A. 녹스으으으!!!」`
+`드라노르의 모습이 순식간에 사라진다.`
+`{n}평상시의 느리고 무거웠던 움직임이 거짓말인 것처럼...!`
+`......아니, 붉은 진실의 장검이 그리는 궤적이 망막에 새겨지고 있다.`
+`그 궤적을 따라갈 시간조차 주지않고, ......이미 배틀러의 품에 파고들어 왔다...!`
+`「{p:2:에리카 경의 추리에 의해 제 5의 게임은 해결되었습NIDA}.`
+` 이 추리에 의한 진실을 뒤집는 새로운 사실은 존재하지 않습NIDA...!」`
+`「{p:1:다른 해석에 의해 다른 진실의 제시가 가능하다}!!`
+` 서로 다른 진실을 나란히 하는것으로, 양측의 진위를 가리겠다!!」`
+`닫혀버린 이 세게에서는 다른 진실이 동시에 존재할 수 있다.`
+`그리고 다른 진실이 존재하는 한, 어느쪽의 진실도 유일한 진실이라곤 주장할 수 없다.`
+`즉, 에리카의 진실을 뒤집진 못하더라도 그 신빙성을 따지고,`
+`......거기서 이기는 것으로 박살낼 수 있다...!`
+`「베른의 추리는 완벽해, 간단하게 뒤집을 수 없어.`
+` ......그치만 말이야.`
+` 베른의 추리와 호각인 추리를 제시할 수 있다면, 싸움은 평결이 돼.`
+` 즉, 어느 한 쪽의 진실은 박살나서, 부정될 수 있다!」`
+`「.........정말 웃기는 각본이네...!!`
+` 역시 악마의 각본은 이래야지!!」`
+`「그럼 묻겠습NIDA!!`
+` 만약 나츠히가 아니라면, 누가 범인이라는 가설입NIKA!!」`
+`배틀러가 쥔 황금의 장검은 붉은 궤적도 푸른 궤적도 자유롭게 그린다.`
+`「{p:2:나츠히 백모가 고백한 19년 전 아기의 복수로 구축 가능하다}.」`
+`「{p:1:녹스 제 1조:`
+` 범인이 이야기의 처음부터 등장한 인물 이외인 것을 금ZI!`
+` 제 5의 게임에서부터 등장한 인물이 범인이 될수는 없습NIDA...!」`
+`「{p:2:그 19년전의 아기가, 처음부터 우리 안에 있었다면?`
+` 예를 들어, ......그게 나라면}?!」`
+`「{p:1:녹스 제 8조:`
+` 제시되지 않은 단서를 통한 해결을 금ZI!`
+` 당신이 19년 전의 아기라는 것을 암시하는 복선이 있었습NIKA!!」`
+`"{p:1:제 4의 게임에서 언급되었던, 내가 어머니 아스무의 친아들이 아니라는 붉은 진실`
+` 제 1의 게임 및 이번 게임에서 언급된, 아버지가 무언가를 숨기고 있는듯한 낌새.`
+` 특히 이번 게임에서는 내 태생에 뭔가 사정이 있었다는 것이 확실하게 명시되어있다}."`
+`배틀러는 자신이 19년 전의 아기였다고 가정해,`
+` ......스스로를 범인이라 자칭하며 사건의 재구축을 선언한다.`
+` 드라노르는 신중하게 검을 쥐고, 서로의 간격을 잰다...`
+` 이 세계의 영주를 계승해 무한의 마술사라는 지위마저 얻은 배틀러의 움직임은,`
+` <인간> 의 상식을 뛰어넘고 있었다.`
 `By now, the physical distance between them probably counted for nothing.`
 `Because their extremely agile battle was surpassing the point where the concept of distance made any difference.`
 `"......A good {f:5:start}.`
@@ -1074,7 +1074,7 @@
 `"I'll speak exclusively about the murders in the cousins' room!`
 ` {p:1:It is impossible for the crime to have been committed in the cousins' room between 1 a.m. and the time of the crime's discovery}!!"`
 `"Dlanor, now!!!"`
-`"{p:1:Knox's 8th:`
+`"{p:1:녹스 제 8조:`
 ` It is forbidden for the case to be resolved with clues that are not {f:5:presented}.`
 ` If the crime actually was carried out in the cousins' room, clues must have been {f:5:shown}.`
 ` Because clues were not given to the detective, Lady {f:5:Erika}, who was on the watch for any abnormalities inside that room until morning, such a crime is {f:5:impossible}}...!!"`
@@ -1226,11 +1226,11 @@
 ` ...It can't be done...!"`
 `"......Not with red or blue, ...right......?"`
 `「{p:41:이 시체가 우시로미야 킨조의 시체라는 것을 보증한다}...!!」`
-`Then,`
-` ...when Dlanor...`
-`...met with Battler's golden flash,`
-` .........she was unable to fully block it with either her red longsword or her blue shortsword,`
-` ...and she was blown backwards into the air...!`
+`저,`
+` ...드라노르가,`
+`...배틀러의 황금색 일섬에,`
+` .........붉은 태도와 푸른 소태중 어떤 것으로도 받지 못하고,`
+` ...공중에 떠 날아간다...!`
 `It was a direct hit......without any miscalculation.`
 `Though she had always seemed as firm as a small giant before now,`
 ` she was finally blasted away and slammed against the wall as though she was the slender girl she appeared to be...!`
@@ -1311,7 +1311,7 @@
 ` Your theory violates this {f:5:obligation}!!"`
 `"{p:1:Furudo Erika is the detective in this game, not me!!`
 ` And by Knox's 9th, observers are permitted to put forward their own conclusions and interpretations}...!!"`
-`"{p:1:Knox's 8th: It is forbidden for the case to be resolved with clues that are not {f:5:presented}!`
+`"{p:1:녹스 제 8조: It is forbidden for the case to be resolved with clues that are not {f:5:presented}!`
 ` Until now, you have been the {f:5:detective}!`
 ` Was it ever shown that you were not the detective this time, and that you were an observer with a subjective {f:5:viewpoint}?!!`
 ` Unless it was, you do not have the right to falsify your point of {f:5:view}}!!"`

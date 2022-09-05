@@ -1,10 +1,10 @@
-`Hmm...`
-` Looks like there is absolutely nothing here.`
-` ......At all.`
-`This rain is getting harder.`
-` I'd better return to the mansion...`
+`흠...`
+` 여기엔 진짜 말그대로 아무것도 없는것같다.`
+` ......아마.`
+`비가 점점더 많이 내리기 시작한것같은데.`
+` 맨션으로 돌아가는게 좋겠어...`
 `.....................?`
-`Huh?`
+`허?`
 ` What is that...?`
 `"High‐explosive armor‐piercing {p:41:{f:5:golden bullets}}.`
 `{n}They profane science, but are effective for making peppered rabbit.`
